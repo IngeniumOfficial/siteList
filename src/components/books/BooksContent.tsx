@@ -6,6 +6,13 @@ import owsvg from '/otherwebsites.svg';
 import esvg from '/extensions.svg';
 import eac from '/educationandcourses.svg';
 
+/* 
+    This is a middle step in between the page and the GeneralListComponent.
+    In order to keep the GeneralListComponent modular, small components are
+    created that pass any additional data to GeneralListComponent as props
+    (this includes fonts and general data)
+*/
+
 const arr = [
     saasvg,
     bsvg,
@@ -17,6 +24,6 @@ const arr = [
 
 export default function BooksContent(){
     return(
-        <GeneralListComponent fetchLink='http://localhost:3000/basicList' img={arr} />
+        <GeneralListComponent data={ "balh" } img={arr} />
     )
 }

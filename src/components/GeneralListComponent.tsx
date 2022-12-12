@@ -1,34 +1,27 @@
 import { createSignal, onMount, Show, For, Switch, Match } from 'solid-js';
+import type { Component } from 'solid-js';
 
 import savelinksvg from '/savelink.svg';
 
 import '../styles/components/GeneralListComponent.scss';
 
 
-export default function GeneralListComponent(props: any){
+const GeneralListComponent: Component<{ img: Array<any>, data: any }> = (props: any) => {
+    /* This signal tracks and assists changes in views from full section to selectable subsections and vice versa */
     const [verify, verifySet] = createSignal<boolean>(false);
+    /* Assists in manipulating the Select element for the second view */
     const [select, selectSet] = createSignal('');
 
-
+    // This is where the data goes, used previously for backend access, redundant now that site is static
     const [total, totalSet] = createSignal<any>([]);
-    const [total2, total2Set] = createSignal<any>([]);
+    // const [total2, total2Set] = createSignal<any>([]);
 
-    onMount(async () => {
-        const res = await fetch(props.fetchLink, {
-            method: 'POST',
-            body: JSON.stringify({ "input": "books" }),
-            headers: {
-                'Content-Type': 'application/json'
-            }
-        });
-        const final = await res.json();
-        await console.log(final);
-
-        totalSet(await final[1]);
-        total2Set(await final[0]);
+    // ToDo: fix this, remove the signal above and set the stuff equal to this
+    onMount(() => {
+        totalSet(props.data);
     })
     
-
+    // Handles view changes by altering verify signal on button change
     function buttonHandler(){
         if(verify() === false){
             verifySet(true);
@@ -37,7 +30,7 @@ export default function GeneralListComponent(props: any){
         }
     }
 
-    function selectChange(e) {
+    function selectChange(e: any) {
         console.log(e);
         selectSet(e);
     }
@@ -93,7 +86,7 @@ export default function GeneralListComponent(props: any){
                         </div>
                     }>
 
-                    {/* TODO: For some reason this won't render the images */}
+
                         <For each={total()}>{(item: any, index4) =>
                             <Match when={select() === item.subsection}>
                                 <div>
@@ -162,3 +155,6 @@ function ListReturn(props: any){
         </div>
     )
 }
+
+
+export default GeneralListComponent;

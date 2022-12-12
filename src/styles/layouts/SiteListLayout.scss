@@ -6,7 +6,7 @@ $tertiarycolor: #607EAA;
 $quaternarycolor: #1C3879;
 
 $heebo-300: 'Heebo', sans-serif;
-$topsize: 25px;
+$topsize: 20px;
 
 $navSideMargins: 15px;
 $gap: 0;
@@ -17,6 +17,7 @@ $bottomSeparator: 70px;
 
 body{
     font-family: $heebo-300;
+    margin: 0;
 }
 
 
