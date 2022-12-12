@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+$primarycolor: #F9F5EB;
+$secondarycolor: #EAE3D2;
+$tertiarycolor: #607EAA;
+$quaternarycolor: #1C3879;
+
+$heebo-300: 'Heebo', sans-serif;
+$topsize: 25px;
+
+$navSideMargins: 15px;
+$gap: 0;
+$dropdownSectionPadding: 0 10px 0 10px;
+$dropdownIndividualPadding: 10px 15px 10px 15px;
+$buttonsPadding: 0 25px 0 25px;
+$bottomSeparator: 70px;
+
+body{
+    font-family: $heebo-300;
+}
+
+
+nav{
+    font-size: $topsize;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: $tertiarycolor;
+
+    #sitetitle{
+        margin-left: $navSideMargins;
+    }
+
+    #home-button{
+        padding: $buttonsPadding;
+    }
+
+    #right-nav{
+        margin-right: $navSideMargins;
+        display:flex;
+        flex-direction: row;
+        justify-content: space-between;
+        gap: $gap;
+
+        #dropdown-section{
+            position: relative;
+            display: inline-block;
+            padding: $buttonsPadding;
+        }
+
+        #browse-button{
+            cursor: pointer;
+        }
+        #dropdown-content{
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 150px;
+            text-align: left;
+            margin-left: 0;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+
+            a{
+                color: black;
+                padding: $dropdownIndividualPadding;
+                text-decoration: none;
+                display: block;   
+            }
+
+            a:hover {
+                background-color: $primarycolor;
+            }
+        }
+
+        #dropdown-section:hover #dropdown-content{
+            display: block;
+        }
+
+        #dropdown-section:hover{
+            background-color: $primarycolor;
+        }
+
+        #aboutus{
+            padding: $buttonsPadding;
+        }
+    }
+
+    a{
+        color: black;
+        text-decoration: none;
+    }
+
+    a:hover {
+        background-color: $primarycolor;
+    }
+}
+
+#separator{
+    margin-bottom: $bottomSeparator;
+}
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: $tertiarycolor;
+    font-size: $topsize;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}

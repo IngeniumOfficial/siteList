@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+$heebo-300: 'Heebo', sans-serif;
+$topsize: 15px;
+
+$fontsizebookspage: 24px;
+
+#booklink-content{
+    text-align: center;
+
+    font-size: $fontsizebookspage;
+}
+
+#booksPage-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: $fontsizebookspage;
+
+    #bottomlist{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        gap: 30px;
+    }
+}

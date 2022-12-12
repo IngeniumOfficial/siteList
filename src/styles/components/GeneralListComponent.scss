@@ -1,0 +1,130 @@
+$primarycolor: #F9F5EB;
+$secondarycolor: #EAE3D2;
+$tertiarycolor: #607EAA;
+$quaternarycolor: #1C3879;
+
+$heebo-300: 'Heebo', sans-serif;
+
+$contentpadding: 1px 10px 1px 10px;
+$contentGaps: 12px;
+$gapbetweentitleandlink: 15px;
+$idLogoSize: 20px;
+$mainSectionGap: 20px;
+$mainSection2Gap: 20px;
+$genfontsize: 25px;
+
+$linkwidth: 1000px;
+$leftwidth: 200px;
+$centerwidth: 700px;
+$rightwidth: 50px;
+
+
+select{
+    font-size: $genfontsize;
+}
+button{
+    font-size: $genfontsize;
+}
+
+#general-list{
+    overflow-wrap: break-word;
+}
+
+#mainSection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: $mainSectionGap;
+}
+
+#mainSection2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: $mainSection2Gap;
+}
+
+a{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    color: black;
+}
+
+.contentItem{
+    margin-top: $contentGaps;
+    margin-bottom: $contentGaps;
+    padding: $contentpadding;
+    background-color: $primarycolor;
+    border-radius: 10px;
+    box-shadow: 8px 8px 5px 0px rgb(182, 182, 182);
+
+    // transition: all .2s ease-in-out;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: $linkwidth;
+    gap: $gapbetweentitleandlink;
+
+    .title-icon{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: left;
+        gap: 10px;
+        width: $leftwidth;
+    }
+
+
+    .description-link{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 0;
+        width: $centerwidth;
+
+        
+        
+        
+        p{
+            margin-top: 0;
+            margin-bottom: 0;
+            overflow-wrap: break-word;
+            width: $centerwidth;
+        }
+
+        .description{
+            font-weight: bold;
+            overflow-wrap: break-word;
+            width: $centerwidth;
+        }
+    }
+
+    button{
+        display: inline-block;
+
+        border: 0;
+        background-color: inherit;
+
+        width: $rightwidth;
+    }
+
+    button:hover{
+        background-color: $quaternarycolor;
+        cursor: pointer;
+    }
+
+}
+
+// .contentItem:hover{
+//     transform: scale(1.01);
+//     cursor: pointer;
+// }
+
+.idLogo{
+    height: $idLogoSize;
+    width: $idLogoSize;
+}
