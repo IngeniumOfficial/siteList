@@ -1,0 +1,21 @@
+---
+import '../styles/alllinksstyles.scss';
+import EveryLink from '../components/alllinks/EveryLink.jsx';
+---
+
+<html>
+    <head>
+        <meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>Sitelist Secret</title>
+    </head>
+    <body>
+        <a href="/"><h3>Press Here to go Home</h3></a>
+        <a href="/secret"><h3>Press here to go to secret Main</h3></a>
+        <h1>Below are all the links in available in the database that are linked to the backend.</h1>
+        <h3>Note: Adding a new collection (section) will require an update on the backend before displayed below.</h3>
+        <EveryLink client:only='react' />
+    </body>
+</html>

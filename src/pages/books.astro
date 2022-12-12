@@ -1,0 +1,40 @@
+---
+import SiteListLayout from "../layouts/SiteListLayout.astro";
+import BooksContent from "../components/books/BooksContent.jsx";
+import "../styles/books.scss";
+---
+
+
+
+<SiteListLayout>
+    <div id="booklink-content">
+        <h3>Books and Education Links</h3>
+        <BooksContent client:only="solid-js" />
+    </div>
+    <div id='booksPage-info'>
+        <h3>Look at our links for...</h3>
+        <div id='bottomlist'>
+            <ul>
+                <li><h3>Scientific Articles</h3></li>
+                <li><h3>Scholarly Articles</h3></li>
+                <li><h3>Biology Papers</h3></li>
+                <li><h3>Research Papers</h3></li>
+                <li><h3>Scientific Archives</h3></li>
+                <li><h3>Online Libraries</h3></li>
+                <li><h3>PDF Libraries</h3></li>
+                <li><h3>PDF Books and Collections</h3></li>
+            </ul>
+            <ul>
+                <li><h3>Ebook Libraries</h3></li>
+                <li><h3>Shadow Libraries</h3></li>
+                <li><h3>DarkNet/Dark Web Libraries</h3></li>
+                <li><h3>Cached or Archived Pages</h3></li>
+                <li><h3>Topical Lists</h3></li>
+                <li><h3>Metadata Search Engines</h3></li>
+                <li><h3>Journal Articles</h3></li>
+                <li><h3>Educational Browser Extensions</h3></li>
+            </ul>
+        </div>
+        <h3>...and more.</h3>
+    </div>
+</SiteListLayout>
