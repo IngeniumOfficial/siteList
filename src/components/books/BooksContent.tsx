@@ -6,6 +6,8 @@ import owsvg from '/otherwebsites.svg';
 import esvg from '/extensions.svg';
 import eac from '/educationandcourses.svg';
 
+import booksJSON from '../../jsonFiles/books.json';
+
 /* 
     This is a middle step in between the page and the GeneralListComponent.
     In order to keep the GeneralListComponent modular, small components are
@@ -24,6 +26,6 @@ const arr = [
 
 export default function BooksContent(){
     return(
-        <GeneralListComponent data={ "balh" } img={arr} />
+        <GeneralListComponent data={booksJSON} img={arr} />
     )
 }

@@ -2,7 +2,11 @@
 
 $heebo-300: 'Heebo', sans-serif;
 
-$fontsizebookspage: 20px;
+$fontsizebookspage: 18px;
+
+// select{font-size: $fontsizebookspage;}
+// button{font-size: $fontsizebookspage;}
+// label{font-size: $fontsizebookspage;}
 
 #booklink-content{
     text-align: center;

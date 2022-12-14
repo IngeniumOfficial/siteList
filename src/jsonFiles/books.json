@@ -1,0 +1,606 @@
+[
+    {
+        "StudiesArticlesandScientificPapers": {
+            "subsection": "StudiesArticlesandScientificPapers",
+            "subsectionName": "Studies, Articles, and Scientific Papers",
+            "SLSCount": 3,
+            "SLS": [
+                {
+                    "SLSName": "default",
+                    "SLSList": [
+                        {
+                            "name": "Arxiv",
+                            "url": "https://arxiv.org/",
+                            "description": "“...a free distribution service and an open-access archive for 2,101,260 scholarly articles…”"
+                        },
+                        {
+                            "name": "Biorxiv",
+                            "url": "https://www.biorxiv.org/",
+                            "description": "Preprint Server for Biology. Access biology papers and studies before they are published."
+                        },
+                        {
+                            "name": "Sci-Hub",
+                            "url": "https://sci-hub.st/",
+                            "description": "Mass and public access to millions of research papers."
+                        },
+                        {
+                            "name": "FreeFullPDF",
+                            "url": "http://www.freefullpdf.com/#gsc.tab=0",
+                            "description": "“Download Free Scientific Publications”"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Books": {
+            "subsection": "Books",
+            "subsectionName": "Books",
+            "SLSCount": 7,
+            "SLS": [
+                {
+                    "SLSName": "Textbooks",
+                    "SLSList": [
+                        {
+                            "name": "FreeTechBooks",
+                            "url": "https://www.freetechbooks.com/",
+                            "description": "“Database of Free/Open Access Online Computer Science Books, Textbooks, and Lecture Notes”"
+                        },
+                        {
+                            "name": "Library Genesis",
+                            "url": "https://libgen.fun/",
+                            "description": "Find whatever you can for whatever you need. This site is more focused on technical books, textbooks, and magazines."
+                        },
+                        {
+                            "name": "Shadow Libraries",
+                            "url": "https://shadowlibraries.github.io/",
+                            "description": "A collection of “Shadow Libraries” across the common internet and the onion network."
+                        },
+                        {
+                            "name": "Z-Lib",
+                            "url": "https://z-lib.org/",
+                            "description": "“The world’s largest ebook library.” Check the Tor link if down."
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Books, ebooks, and PDFs",
+                    "SLSList": [
+                        {
+                            "name": "Library Genesis",
+                            "url": "https://libgen.fun/",
+                            "description": "Find whatever you can for whatever you need. This site is more focused on technical books, textbooks, and magazines."
+                        },
+                        {
+                            "name": "Library Genesis: Fiction",
+                            "url": "http://libgen.rs/fiction/",
+                            "description": "This is the ePub fiction section of libgen"
+                        },
+                        {
+                            "name": "Project Gutenberg",
+                            "url": "https://www.gutenberg.org/",
+                            "description": "Library of over 60,000 free ebooks."
+                        },
+                        {
+                            "name": "PDFDrive",
+                            "url": "https://www.pdfdrive.com/",
+                            "description": "Search engine for PDF files and books. Over 80 million files available."
+                        },
+                        {
+                            "name": "EBOOKEE",
+                            "url": "https://ebookee.com/",
+                            "description": "“EBOOKEE is a search engine of ebooks on the Internet”"
+                        },
+                        {
+                            "name": "Imperial Library",
+                            "url": "https://trantor.is/",
+                            "description": "Another big library. Note: Sometimes, trantor.is is down, try the Onion link mentioned later in this subsection if that is the case (you will need access to the tor network)."
+                        },
+                        {
+                            "name": "Ebook3000",
+                            "url": "http://www.ebook3000.com/",
+                            "description": "Library of Magazines."
+                        },
+                        {
+                            "name": "Shadow Libraries",
+                            "url": "https://shadowlibraries.github.io/",
+                            "description": "A collection of “Shadow Libraries” across the common internet and the onion network."
+                        },
+                        {
+                            "name": "Z-Lib",
+                            "url": "https://z-lib.org/",
+                            "description": "“The world’s largest ebook library.” Check the Tor link if down."
+                        },
+                        {
+                            "name": "eBookBB",
+                            "url": "https://ebookbb.in/",
+                            "description": "“eBookBB is a free service that helps thousands of readers discover books they'll love.”"
+                        },
+                        {
+                            "name": "OceanofPDF",
+                            "url": "https://oceanofpdf.com/",
+                            "description": "A large resource for PDF ebooks."
+                        },
+                        {
+                            "name": "Ebook-hunter.org",
+                            "url": "https://ebook-hunter.org/Books/",
+                            "description": "A simple ebook library."
+                        },
+                        {
+                            "name": "PDFGet",
+                            "url": "https://pdfget.com/",
+                            "description": "“Easily download your favorite books.”"
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Audiobooks",
+                    "SLSList": [
+                        {
+                            "name": "AudioBook Bay",
+                            "url": "https://audiobookbay.se/",
+                            "description": "Large Audiobook library."
+                        },
+                        {
+                            "name": "TOKYBOOK",
+                            "url": "https://tokybook.com/",
+                            "description": "Audiobook library that allows online listening."
+                        },
+                        {
+                            "name": "GalaxyAudiobook",
+                            "url": "https://galaxyaudiobook.com/galaxyhome/",
+                            "description": "Listen to audiobooks online."
+                        },
+                        {
+                            "name": "Golden Audiobooks",
+                            "url": "https://goldenaudiobooks.com/",
+                            "description": "Listen to 1900+ audiobooks online free."
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Comic Books and Anime",
+                    "SLSList": [
+                        {
+                            "name": "GetComics",
+                            "url": "https://getcomics.info/",
+                            "description": "A large library of digital comic books."
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Other Languages",
+                    "SLSList": [
+                        {
+                            "name": "Ebookelo",
+                            "url": "https://ww2.ebookelo.com/",
+                            "description": "Spanish and Catalan focused libraries, with some other languages afterwards."
+                        },
+                        {
+                            "name": "Flibusta",
+                            "url": "https://flibusta.site/",
+                            "description": "Russian ebook library."
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Requires Free Account",
+                    "SLSList": [
+                        {
+                            "name": "Mobilism",
+                            "url": "https://forum.mobilism.me/",
+                            "description": "A large source of apps and books, but needs a free account."
+                        },
+                        {
+                            "name": "MyWarez",
+                            "url": "https://mywarez.org/",
+                            "description": "Over 40k ebooks and thousands of audiobooks, requires registration."
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Tor (Onion) Links",
+                    "SLSList": [
+                        {
+                            "name": "Imperial Library - Tor",
+                            "url": "http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/",
+                            "description": "This is the Tor Onion link for the Imperial Library."
+                        },
+                        {
+                            "name": "Z-Lib - Tor",
+                            "url": "http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion/",
+                            "description": "This is the Tor Onion link for Z-Lib"
+                        }
+                    ]
+                }
+            ]
+        },
+        "EducationCourses": {
+            "subsection": "EducationCourses",
+            "subsectionName": "Education / Courses",
+            "SLSCount": 1,
+            "SLS": [
+                {
+                    "SLSName": "Programming / Software Development",
+                    "SLSList": [
+                        {
+                            "name": "freeCodeCamp",
+                            "url": "https://www.freecodecamp.org/",
+                            "description": "“Learn to code - For Free”"
+                        },
+                        {
+                            "name": "Exercism",
+                            "url": "https://exercism.org/",
+                            "description": "Learn language fluency in more than 50 different programming languages."
+                        },
+                        {
+                            "name": "ProjectEuler",
+                            "url": "https://projecteuler.net/",
+                            "description": "While this isn’t purely a website for programming, many programmers use the problems as challenges for coding."
+                        }
+                    ]
+                }
+            ]
+        },
+        "OtherWebsites": {
+            "subsection": "OtherWebsites",
+            "subsectionName": "Other Websites",
+            "SLSCount": 1,
+            "SLS": [
+                {
+                    "SLSName": "default",
+                    "SLSList": [
+                        {
+                            "name": "CachedPages",
+                            "url": "http://www.cachedpages.com/",
+                            "description": "Get the cached page of any URL."
+                        },
+                        {
+                            "name": "Internet Archive/Wayback Machine",
+                            "url": "https://web.archive.org/",
+                            "description": "Look through the internet archive and use the wayback machine to look at previous screenshots of websites."
+                        },
+                        {
+                            "name": "AwesomeLists - Anything you might need",
+                            "url": "https://awesomelists.top/#/",
+                            "description": "A big collection of lists on a huge variety of topics."
+                        },
+                        {
+                            "name": "Crossref",
+                            "url": "https://search.crossref.org/",
+                            "description": "Search metadata of journal articles, books, datasets, and more."
+                        },
+                        {
+                            "name": "Awesome Public Datasets",
+                            "url": "https://github.com/awesomedata/awesome-public-datasets",
+                            "description": "A giant list of topic-centric public data sources."
+                        },
+                        {
+                            "name": "DOC-TXT",
+                            "url": "http://www.doc-txt.com/",
+                            "description": "A document search engine."
+                        }
+                    ]
+                }
+            ]
+        },
+        "Extensions": {
+            "subsection": "Extensions",
+            "subsectionName": "Extensions",
+            "SLSCount": 1,
+            "SLS": [
+                {
+                    "SLSName": "default",
+                    "SLSList": [
+                        {
+                            "name": "Unpaywall",
+                            "url": "https://unpaywall.org/products/extension/",
+                            "description": "Skip the paywall wherever you want and access whichever article or research paper you need."
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    [
+        {
+            "subsection": "StudiesArticlesandScientificPapers",
+            "subsectionName": "Studies, Articles, and Scientific Papers",
+            "SLSCount": 3,
+            "SLS": [
+                {
+                    "SLSName": "default",
+                    "SLSList": [
+                        {
+                            "name": "Arxiv",
+                            "url": "https://arxiv.org/",
+                            "description": "“...a free distribution service and an open-access archive for 2,101,260 scholarly articles…”"
+                        },
+                        {
+                            "name": "Biorxiv",
+                            "url": "https://www.biorxiv.org/",
+                            "description": "Preprint Server for Biology. Access biology papers and studies before they are published."
+                        },
+                        {
+                            "name": "Sci-Hub",
+                            "url": "https://sci-hub.st/",
+                            "description": "Mass and public access to millions of research papers."
+                        },
+                        {
+                            "name": "FreeFullPDF",
+                            "url": "http://www.freefullpdf.com/#gsc.tab=0",
+                            "description": "“Download Free Scientific Publications”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "subsection": "Books",
+            "subsectionName": "Books",
+            "SLSCount": 7,
+            "SLS": [
+                {
+                    "SLSName": "Textbooks",
+                    "SLSList": [
+                        {
+                            "name": "FreeTechBooks",
+                            "url": "https://www.freetechbooks.com/",
+                            "description": "“Database of Free/Open Access Online Computer Science Books, Textbooks, and Lecture Notes”"
+                        },
+                        {
+                            "name": "Library Genesis",
+                            "url": "https://libgen.fun/",
+                            "description": "Find whatever you can for whatever you need. This site is more focused on technical books, textbooks, and magazines."
+                        },
+                        {
+                            "name": "Shadow Libraries",
+                            "url": "https://shadowlibraries.github.io/",
+                            "description": "A collection of “Shadow Libraries” across the common internet and the onion network."
+                        },
+                        {
+                            "name": "Z-Lib",
+                            "url": "https://z-lib.org/",
+                            "description": "“The world’s largest ebook library.” Check the Tor link if down."
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Books, ebooks, and PDFs",
+                    "SLSList": [
+                        {
+                            "name": "Library Genesis",
+                            "url": "https://libgen.fun/",
+                            "description": "Find whatever you can for whatever you need. This site is more focused on technical books, textbooks, and magazines."
+                        },
+                        {
+                            "name": "Library Genesis: Fiction",
+                            "url": "http://libgen.rs/fiction/",
+                            "description": "This is the ePub fiction section of libgen"
+                        },
+                        {
+                            "name": "Project Gutenberg",
+                            "url": "https://www.gutenberg.org/",
+                            "description": "Library of over 60,000 free ebooks."
+                        },
+                        {
+                            "name": "PDFDrive",
+                            "url": "https://www.pdfdrive.com/",
+                            "description": "Search engine for PDF files and books. Over 80 million files available."
+                        },
+                        {
+                            "name": "EBOOKEE",
+                            "url": "https://ebookee.com/",
+                            "description": "“EBOOKEE is a search engine of ebooks on the Internet”"
+                        },
+                        {
+                            "name": "Imperial Library",
+                            "url": "https://trantor.is/",
+                            "description": "Another big library. Note: Sometimes, trantor.is is down, try the Onion link mentioned later in this subsection if that is the case (you will need access to the tor network)."
+                        },
+                        {
+                            "name": "Ebook3000",
+                            "url": "http://www.ebook3000.com/",
+                            "description": "Library of Magazines."
+                        },
+                        {
+                            "name": "Shadow Libraries",
+                            "url": "https://shadowlibraries.github.io/",
+                            "description": "A collection of “Shadow Libraries” across the common internet and the onion network."
+                        },
+                        {
+                            "name": "Z-Lib",
+                            "url": "https://z-lib.org/",
+                            "description": "“The world’s largest ebook library.” Check the Tor link if down."
+                        },
+                        {
+                            "name": "eBookBB",
+                            "url": "https://ebookbb.in/",
+                            "description": "“eBookBB is a free service that helps thousands of readers discover books they'll love.”"
+                        },
+                        {
+                            "name": "OceanofPDF",
+                            "url": "https://oceanofpdf.com/",
+                            "description": "A large resource for PDF ebooks."
+                        },
+                        {
+                            "name": "Ebook-hunter.org",
+                            "url": "https://ebook-hunter.org/Books/",
+                            "description": "A simple ebook library."
+                        },
+                        {
+                            "name": "PDFGet",
+                            "url": "https://pdfget.com/",
+                            "description": "“Easily download your favorite books.”"
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Audiobooks",
+                    "SLSList": [
+                        {
+                            "name": "AudioBook Bay",
+                            "url": "https://audiobookbay.se/",
+                            "description": "Large Audiobook library."
+                        },
+                        {
+                            "name": "TOKYBOOK",
+                            "url": "https://tokybook.com/",
+                            "description": "Audiobook library that allows online listening."
+                        },
+                        {
+                            "name": "GalaxyAudiobook",
+                            "url": "https://galaxyaudiobook.com/galaxyhome/",
+                            "description": "Listen to audiobooks online."
+                        },
+                        {
+                            "name": "Golden Audiobooks",
+                            "url": "https://goldenaudiobooks.com/",
+                            "description": "Listen to 1900+ audiobooks online free."
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Comic Books and Anime",
+                    "SLSList": [
+                        {
+                            "name": "GetComics",
+                            "url": "https://getcomics.info/",
+                            "description": "A large library of digital comic books."
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Other Languages",
+                    "SLSList": [
+                        {
+                            "name": "Ebookelo",
+                            "url": "https://ww2.ebookelo.com/",
+                            "description": "Spanish and Catalan focused libraries, with some other languages afterwards."
+                        },
+                        {
+                            "name": "Flibusta",
+                            "url": "https://flibusta.site/",
+                            "description": "Russian ebook library."
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Requires Free Account",
+                    "SLSList": [
+                        {
+                            "name": "Mobilism",
+                            "url": "https://forum.mobilism.me/",
+                            "description": "A large source of apps and books, but needs a free account."
+                        },
+                        {
+                            "name": "MyWarez",
+                            "url": "https://mywarez.org/",
+                            "description": "Over 40k ebooks and thousands of audiobooks, requires registration."
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Tor (Onion) Links",
+                    "SLSList": [
+                        {
+                            "name": "Imperial Library - Tor",
+                            "url": "http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/",
+                            "description": "This is the Tor Onion link for the Imperial Library."
+                        },
+                        {
+                            "name": "Z-Lib - Tor",
+                            "url": "http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion/",
+                            "description": "This is the Tor Onion link for Z-Lib"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "subsection": "EducationCourses",
+            "subsectionName": "Education / Courses",
+            "SLSCount": 1,
+            "SLS": [
+                {
+                    "SLSName": "Programming / Software Development",
+                    "SLSList": [
+                        {
+                            "name": "freeCodeCamp",
+                            "url": "https://www.freecodecamp.org/",
+                            "description": "“Learn to code - For Free”"
+                        },
+                        {
+                            "name": "Exercism",
+                            "url": "https://exercism.org/",
+                            "description": "Learn language fluency in more than 50 different programming languages."
+                        },
+                        {
+                            "name": "ProjectEuler",
+                            "url": "https://projecteuler.net/",
+                            "description": "While this isn’t purely a website for programming, many programmers use the problems as challenges for coding."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "subsection": "OtherWebsites",
+            "subsectionName": "Other Websites",
+            "SLSCount": 1,
+            "SLS": [
+                {
+                    "SLSName": "default",
+                    "SLSList": [
+                        {
+                            "name": "CachedPages",
+                            "url": "http://www.cachedpages.com/",
+                            "description": "Get the cached page of any URL."
+                        },
+                        {
+                            "name": "Internet Archive/Wayback Machine",
+                            "url": "https://web.archive.org/",
+                            "description": "Look through the internet archive and use the wayback machine to look at previous screenshots of websites."
+                        },
+                        {
+                            "name": "AwesomeLists - Anything you might need",
+                            "url": "https://awesomelists.top/#/",
+                            "description": "A big collection of lists on a huge variety of topics."
+                        },
+                        {
+                            "name": "Crossref",
+                            "url": "https://search.crossref.org/",
+                            "description": "Search metadata of journal articles, books, datasets, and more."
+                        },
+                        {
+                            "name": "Awesome Public Datasets",
+                            "url": "https://github.com/awesomedata/awesome-public-datasets",
+                            "description": "A giant list of topic-centric public data sources."
+                        },
+                        {
+                            "name": "DOC-TXT",
+                            "url": "http://www.doc-txt.com/",
+                            "description": "A document search engine."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "subsection": "Extensions",
+            "subsectionName": "Extensions",
+            "SLSCount": 1,
+            "SLS": [
+                {
+                    "SLSName": "default",
+                    "SLSList": [
+                        {
+                            "name": "Unpaywall",
+                            "url": "https://unpaywall.org/products/extension/",
+                            "description": "Skip the paywall wherever you want and access whichever article or research paper you need."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+]

@@ -18,7 +18,7 @@ const GeneralListComponent: Component<{ img: Array<any>, data: any }> = (props: 
 
     // ToDo: fix this, remove the signal above and set the stuff equal to this
     onMount(() => {
-        totalSet(props.data);
+        totalSet(props.data[1]);
     })
     
     // Handles view changes by altering verify signal on button change
@@ -30,6 +30,7 @@ const GeneralListComponent: Component<{ img: Array<any>, data: any }> = (props: 
         }
     }
 
+    // 
     function selectChange(e: any) {
         console.log(e);
         selectSet(e);
