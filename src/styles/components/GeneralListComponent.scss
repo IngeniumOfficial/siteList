@@ -71,18 +71,17 @@ a{
 
     // transition: all .2s ease-in-out;
 
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    width: $linkwidth;
-    gap: $gapbetweentitleandlink;
+    display: grid;
+    grid-template-columns: 20% 75% 5%;
+    grid-template-areas: "titleicon description copylink";
+    max-width: $linkwidth;
 
     .title-icon{
+        grid-area: titleicon;
         display: flex;
         flex-direction: row;
         align-items: center;
-        justify-content: left;
+        justify-content: center;
         gap: 1em;
         width: $leftwidth;
         max-width: $leftwidth;
@@ -90,12 +89,14 @@ a{
 
 
     .description-link{
+        grid-area: description;
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
         gap: 0;
         max-width: $centerwidth;
+        overflow-wrap: break-word;
 
         
         a{
@@ -103,20 +104,21 @@ a{
         }
         
         p{
-            margin-top: 0;
-            margin-bottom: 0;
+            margin: 0;
             overflow-wrap: break-word;
         }
 
         .description{
+            margin: 0;
             font-weight: bold;
             overflow-wrap: break-word;
         }
     }
 
     #button{
+        grid-area: copylink;
         display: inline-block;
-
+        margin: 0;
         border: 0;
         background-color: inherit;
 
@@ -157,4 +159,14 @@ a{
 @media screen and (max-width: 520px){
     .description-link{ font-size: 11px; }
     button{ font-size: 11px; }
+}
+
+
+@media screen and (max-width: 400px){
+    .contentItem{
+        gap: 0px;
+    }
+    .description-link{
+        width: 50%;
+    }
 }

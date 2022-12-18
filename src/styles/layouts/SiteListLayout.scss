@@ -142,3 +142,24 @@ footer{
     nav{ font-size: 12.5px; }
     footer{ font-size: 11px; }
 }
+
+
+@media screen and (max-width: 400px){
+    footer{
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+        align-items: center;
+        justify-content: end;
+        gap: 0;
+
+        div{
+            margin: 0;
+
+            p{
+                margin: 0;
+            }
+        }
+    }
+}
