@@ -30,6 +30,11 @@ nav{
     justify-content: space-between;
     background-color: $tertiarycolor;
 
+    img{
+        width: 2.5em;
+        margin-right: $navSideMargins;
+    }
+
     #sitetitle{
         margin-left: $navSideMargins;
     }
@@ -59,7 +64,7 @@ nav{
             display: none;
             position: absolute;
             background-color: #f9f9f9;
-            min-width: 150px;
+            min-width: 2em;
             text-align: left;
             margin-left: 0;
             box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -115,4 +120,25 @@ footer{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+}
+
+
+@media screen and (max-width : 999px){
+    nav{ font-size: 18px; }
+    footer{ font-size: 14px; }
+}
+
+@media screen and (max-width: 750px){
+    nav{ font-size: 16px; }
+    footer{ font-size: 12px; }
+}
+
+@media screen and (max-width: 600px){
+    nav{ font-size: 14px; }
+    footer{ font-size: 12px; }
+}
+
+@media screen and (max-width: 520px){
+    nav{ font-size: 12.5px; }
+    footer{ font-size: 11px; }
 }

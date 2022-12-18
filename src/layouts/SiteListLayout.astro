@@ -1,5 +1,6 @@
 ---
 import '../styles/layouts/SiteListLayout.scss';
+import NavBar from '../components/layouts/NavBar';
 ---
 <html lang="en">
     <head>
@@ -10,26 +11,7 @@ import '../styles/layouts/SiteListLayout.scss';
 		<title>Sitelist Official</title>
     </head>
     <body>
-        <nav>
-            <h3 id='sitetitle'>Sitelist</h3>
-            <div id="right-nav">
-				<a href="/"><h3 id="home-button">Home</h3></a>
-				<div id="dropdown-section">
-					<a href='/collection'><h3 id="browse-button">Browse</h3></a>
-					<div id="dropdown-content">
-						<a href="/books"><h3>Ebooks and Education</h3></a>
-						<a href="/osint"><h3>OSINT</h3></a>
-						<a href="/books"><h3>Programming Tools</h3></a>
-                        <a href="/books"><h3>Security Resources</h3></a>
-                        <a href="/books"><h3>Everyday Utility</h3></a>
-                        <a href="/books"><h3>Random Utility</h3></a>
-                        <a href="/books"><h3>Random Interesting</h3></a>
-                        <a href="/books"><h3>Random Funny</h3></a>
-					</div>
-				</div>
-				<a href="/aboutus"><h3 id="aboutus">About Us</h3></a>
-            </div>
-        </nav>
+        <NavBar client:only="solid-js" />
         <slot />
         <div id='separator'></div>
         <footer>

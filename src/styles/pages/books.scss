@@ -28,3 +28,21 @@ $fontsizebookspage: 18px;
         gap: 30px;
     }
 }
+
+@media screen and (max-width : 999px){
+    #booklink-content{ font-size: 15px; }
+    #booksPage-info{ font-size: 15px; }
+    button{ font-size: 15px; }
+}
+
+@media screen and (max-width: 750px){
+    #booklink-content{ font-size: 12px; }
+    #booksPage-info{ font-size: 12px; }
+    button{ font-size: 12px; }
+}
+
+@media screen and (max-width: 520px){
+    #booklink-content{ font-size: 11px; }
+    #booksPage-info{ font-size: 11px; }
+    button{ font-size: 11px; }
+}
