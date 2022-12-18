@@ -7,16 +7,16 @@ $heebo-300: 'Heebo', sans-serif;
 
 $contentpadding: 1px 10px 1px 10px;
 $contentGaps: 12px;
-$gapbetweentitleandlink: 15px;
-$idLogoSize: 20px;
+$gapbetweentitleandlink: 1em;
+$idLogoSize: 1.3em;
 $mainSectionGap: 20px;
 $mainSection2Gap: 20px;
 $genfontsize: 18px;
 
-$linkwidth: 1000px;
-$leftwidth: 200px;
-$centerwidth: 700px;
-$rightwidth: 50px;
+$linkwidth: 80%;
+$leftwidth: 20%;
+$centerwidth: 75%;
+$rightwidth: 5%;
 
 
 select{
@@ -50,6 +50,11 @@ a{
     text-decoration: none;
     color: black;
 }
+.secondLayerSubsections{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 .contentItem{
     margin-top: $contentGaps;
@@ -73,7 +78,7 @@ a{
         flex-direction: row;
         align-items: center;
         justify-content: left;
-        gap: 10px;
+        gap: 1em;
         width: $leftwidth;
     }
 
@@ -84,35 +89,35 @@ a{
         align-items: center;
         justify-content: center;
         gap: 0;
-        width: $centerwidth;
+        max-width: $centerwidth;
 
         
-        
+        a{
+            overflow-wrap: break-word;
+        }
         
         p{
             margin-top: 0;
             margin-bottom: 0;
             overflow-wrap: break-word;
-            width: $centerwidth;
         }
 
         .description{
             font-weight: bold;
             overflow-wrap: break-word;
-            width: $centerwidth;
         }
     }
 
-    button{
+    #button{
         display: inline-block;
 
         border: 0;
         background-color: inherit;
 
-        width: $rightwidth;
+        width: 1.3em;
     }
 
-    button:hover{
+    #button:hover{
         background-color: $quaternarycolor;
         cursor: pointer;
     }
@@ -127,4 +132,28 @@ a{
 .idLogo{
     height: $idLogoSize;
     width: $idLogoSize;
+}
+
+@media screen and (max-width : 999px){
+    #general-list{
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 750px){
+    #general-list{
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .contentItem{
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 520px){
+    .description-link{
+        font-size: 11px;
+    }
 }

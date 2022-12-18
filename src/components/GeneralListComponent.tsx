@@ -137,19 +137,17 @@ function ListReturn(props: any){
             <For each={props.obj.SLSList}>{(listItem: any, itemIndex) =>       
                 // <a href={listItem.url} target="_blank">
                     <div class='contentItem'>
-                        <a href={listItem.url} target="_blank">
-                            <div class='title-icon'>
-                                <h4>{listItem.name}</h4>
-                                <img class='idLogo' src={props.img2[imgi()]}></img>
-                            </div>
-                        </a>
+                        <div class='title-icon'>
+                            <a href={listItem.url} target="_blank"><h4>{listItem.name}</h4></a>
+                            <a href={listItem.url} target="_blank"><img class='idLogo' src={props.img2[imgi()]}></img></a>
+                        </div>
                         <div class='description-link'>
                             <a href={listItem.url} target="_blank"><p class='description'>{listItem.description}</p></a>
-                            <a href={listItem.url} target="_blank"><p>{listItem.url}</p></a>
+                            <Show when={window.innerWidth >= 1000}>
+                                <a href={listItem.url} target="_blank"><p>{listItem.url}</p></a>
+                            </Show>
                         </div>
-                        <button onClick={() => copyToClipboard(listItem.url)}>
-                            <img src={savelinksvg}></img>
-                        </button>
+                        <img id='button' onClick={() => copyToClipboard(listItem.url)} src={savelinksvg}></img>
                     </div>
                 // </a>
             }</For>

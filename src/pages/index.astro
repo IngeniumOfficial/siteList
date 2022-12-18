@@ -1,4 +1,5 @@
 ---
+import RandomLink from "../components/index/RandomLink";
 import SiteListLayout from "../layouts/SiteListLayout.astro";
 import "../styles/pages/index.scss";
 ---
@@ -13,10 +14,6 @@ import "../styles/pages/index.scss";
 		</h3>
 		<a href='/collection'><h3 id='collectionButton'>Collection</h3></a>
 		<h2>Featured</h2>
-		<a href="/secret"><h3>Secret</h3></a>
-		<a href="/loginpage"><h3>Login</h3></a>
-		<div id="featured-content">
-	
-		</div>
+		<RandomLink client:only="solid-js" />
 	</div>
 </SiteListLayout>

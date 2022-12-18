@@ -31,7 +31,14 @@ $buttonPadding: 10px 15px 10px 15px;
         border-radius: 10px;
     }
     
-    #featured-content{
-        border: 1px solid red;
+    #randomLink{
+       
+        
+        button{
+            font-size: $generalfontsize;
+        }
+        button:hover{
+            cursor: pointer;
+        }
     }
 }
