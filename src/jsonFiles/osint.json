@@ -1,0 +1,763 @@
+[
+    {
+        "samethingassubsectionbelow": {
+            "subsection": "nospaceCapitals",
+            "subsectionName": "space here",
+            "SLSCount": 0,
+            "SLS": [
+                {
+                    "SLSName": "default",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    [
+        {
+            "subsection": "Images",
+            "subsectionName": "Images",
+            "SLSCount": 6,
+            "SLS": [
+                {
+                    "SLSName": "Image Search",
+                    "SLSList": [
+                        {
+                            "name": "Infringement Report",
+                            "url": "https://infringement.report/api/raider-reverse-image-search/",
+                            "description": "This website does an amazing job with their reverse image search tool. Just upload an image and wait for the result."
+                        },
+                        {
+                            "name": "Karma Decay",
+                            "url": "http://karmadecay.com/",
+                            "description": "Karma Decay is a high grade image search tool that reverse searches any given image on reddit."
+                        },
+                        {
+                            "name": "SauceNAO",
+                            "url": "https://saucenao.com/",
+                            "description": "SauceNAO is an online reverse image search tool that attempts to find the source of a given image."
+                        },
+                        {
+                            "name": "Tineye",
+                            "url": "https://tineye.com/",
+                            "description": "Tineye is another high level reverse image search tool to “Find where images appear online.”"
+                        },
+                        {
+                            "name": "Museo",
+                            "url": "https://museo.app/",
+                            "description": "Visual search engine that connects you with visualizations from multiple art museums."
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Website Specific / Social Media Search",
+                    "SLSList": [
+                        {
+                            "name": "Imgur Search",
+                            "url": "https://imgur.com/search/",
+                            "description": "This is an imgur image title search made by imgur themselves, just in case you wanted to find an image by the theme of the title."
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Image Editing and Steganography",
+                    "SLSList": [
+                        {
+                            "name": "ImgOps",
+                            "url": "https://imgops.com/",
+                            "description": "ImgOps is an efficient online resource for quick image edits."
+                        },
+                        {
+                            "name": "Photopea",
+                            "url": "https://www.photopea.com/",
+                            "description": "Photopea is comparable to a lite photoshop program that runs in your browser. It has a friendly interface and a variety of tools for effective image editing."
+                        },
+                        {
+                            "name": "Steganography Online",
+                            "url": "https://stylesuxx.github.io/steganography/",
+                            "description": "Encode messages into (and decode messages from) images."
+                        },
+                        {
+                            "name": "StegOnline",
+                            "url": "https://stegonline.georgeom.net/upload",
+                            "description": "A tool that allows you to upload an image, browse through the 32 bit planes, extract and embed data, hide images within other image bit planes, and much more."
+                        },
+                        {
+                            "name": "SVG Edit",
+                            "url": "https://svg-edit.github.io/svgedit/",
+                            "description": "“SVGEdit is a fast, web-based, JavaScript-driven SVG drawing editor that works in any modern browser.”"
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Image Extraction",
+                    "SLSList": [
+                        {
+                            "name": "Image Extractor",
+                            "url": "https://extract.pics/",
+                            "description": "“Extract, view and download images from any public website.”"
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Image Forensics and Analysis",
+                    "SLSList": [
+                        {
+                            "name": "FotoForensics",
+                            "url": "https://fotoforensics.com/",
+                            "description": "Submit a picture for Forensic Analysis."
+                        },
+                        {
+                            "name": "Diffchecker",
+                            "url": "https://www.diffchecker.com/image-diff/",
+                            "description": "Image comparison tool."
+                        },
+                        {
+                            "name": "Forensically",
+                            "url": "https://29a.ch/photo-forensics/#forensic-magnifier/",
+                            "description": "Forensic Image Magnifier."
+                        },
+                        {
+                            "name": "Wolfram Image Identification",
+                            "url": "https://www.imageidentify.com/",
+                            "description": "This website will try and identify anything inside an image that you upload. Granted, this isn’t a wizard at identifying anything, but maybe if there is an animal in the image that you aren’t familiar with, this tool will be able to help."
+                        },
+                        {
+                            "name": "ExploreCams",
+                            "url": "https://explorecams.com/",
+                            "description": "Explore photos that were taken on different brands, lenses and series of cameras."
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Other",
+                    "SLSList": [
+                        {
+                            "name": "Pixabay",
+                            "url": "https://pixabay.com/",
+                            "description": "Millions of free images."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "subsection": "IPandDomains",
+            "subsectionName": "IP and Domains",
+            "SLSCount": 9,
+            "SLS": [
+                {
+                    "SLSName": "IP Address Search and Lookup",
+                    "SLSList": [
+                        {
+                            "name": "InfoByIp",
+                            "url": "https://www.infobyip.com/",
+                            "description": "InfoByIp is an ip lookup tool. It displays information related to the given IP address."
+                        },
+                        {
+                            "name": "IP Investigator Toolbox",
+                            "url": "https://cipher387.github.io/domain_investigation_toolbox/ip.html",
+                            "description": "This app is made by cipher387. As opposed to being a direct search tool, it provides access to other tools and communicates with these tools to retrieve information concerning the IP."
+                        },
+                        {
+                            "name": "Censys",
+                            "url": "https://search.censys.io/",
+                            "description": "A Search engine for IP addresses, protocols, and more."
+                        },
+                        {
+                            "name": "Robtex",
+                            "url": "https://www.robtex.com/",
+                            "description": "“Robtex uses various sources to gather public information about IP numbers, domain names, host names, Autonomous systems, routes etc. It then indexes the data in a big database and provides free access to the data.”"
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "URL and Custom URL Links",
+                    "SLSList": [
+                        {
+                            "name": "Grabify.Link",
+                            "url": "https://grabify.link/",
+                            "description": "While this is not a typical ip lookup tool, it generates a custom link that redirects to a desired webpage. Every time a person clicks on the custom link, grabify will log the network data (including ip) of the person who clicked on the custom link."
+                        },
+                        {
+                            "name": "IP Logger",
+                            "url": "https://iplogger.org/",
+                            "description": "This website accomplishes pretty much the same as grabify. It creates a custom link and tracks data of visitors through the custom link. This app also provides a clean UI with data visualization features"
+                        },
+                        {
+                            "name": "WhereGoes",
+                            "url": "https://wheregoes.com/",
+                            "description": "This tool looks at the path of shortened or customized links and gives you all the available data."
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Domain and DNS Lookup",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Archived Websites",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Website Data Extractor",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Security",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "IP and Tag Resolvers",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Onion / Tor (DarkWeb)",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Other",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "subsection": "SearchEngines",
+            "subsectionName": "Search Engines",
+            "SLSCount": 12,
+            "SLS": [
+                {
+                    "SLSName": "Privacy Focused",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Alternative Search Engines and Tools",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Data-Specific Search Engines",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Archived/Cached Website Search Engines",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Query Search Tools / Dorking",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Network Details Search Engines",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Personal Details Search Engines",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Social Media Search Engines",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Website-Specific Search Engines",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Block-chain and Web3 Search Engines",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "DarkNet / Dark Web",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Other",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "subsection": "nospace",
+            "subsectionName": "space here",
+            "SLSCount": 0,
+            "SLS": [
+                {
+                    "SLSName": "default",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "subsection": "nospace",
+            "subsectionName": "space here",
+            "SLSCount": 0,
+            "SLS": [
+                {
+                    "SLSName": "default",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+]

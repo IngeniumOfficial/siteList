@@ -1,0 +1,40 @@
+[
+    {
+        "samethingassubsectionbelow": {
+            "subsection": "nospaceCapitals",
+            "subsectionName": "space here",
+            "SLSCount": 0,
+            "SLS": [
+                {
+                    "SLSName": "default",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    [
+        {
+            "subsection": "nospace",
+            "subsectionName": "space here",
+            "SLSCount": 0,
+            "SLS": [
+                {
+                    "SLSName": "default",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+]
