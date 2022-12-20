@@ -56,11 +56,11 @@ const NavBar: Component = () => {
         <Show when={window.innerWidth >= 400} fallback={
             <nav>
                <h3 id='sitetitle'>Sitelist</h3>
-               <img onclick={viewMenu} src={hamburgerRightUnaligned} /> 
+               <img onclick={viewMenu} src={hamburgerRightUnaligned} style={{ "width": "2.2em" }} /> 
                <Show when={showMenu()}>
                     <div id="leftManu" style={leftMenuStyle} onClick={viewMenu}></div>
                     <div id="hiddenMenu" style={hiddenMenuStyle}>
-                        <img onClick={viewMenu} style={{ "margin-right": "0", "background-color": "white", "border-radius": "1.3em" }} src={hamburgerRightUnaligned} />
+                        <img onClick={viewMenu} style={{ "margin-right": "0", "background-color": "white", "border-radius": "1.3em", "width": "2.2em" }} src={hamburgerRightUnaligned} />
                         <a href="/"><h3 style={{"color": "white", "text-decoration": "underline"}}>Home</h3></a>
                         <h3 onClick={browseClick} style={{"color": "white", "text-decoration": "underline"}}>Browse Links</h3>
                         <Show when={browse()}>

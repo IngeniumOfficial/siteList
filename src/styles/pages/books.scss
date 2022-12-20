@@ -46,3 +46,18 @@ $fontsizebookspage: 18px;
     #booksPage-info{ font-size: 11px; }
     button{ font-size: 11px; }
 }
+
+// Sub-Phone Width
+@media screen and (max-width: 350px){
+    #booksPage-info{
+        #bottomlist{
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            justify-content: center;
+            gap: 0;
+
+            ul{ margin: 0; }
+        }
+    }
+}

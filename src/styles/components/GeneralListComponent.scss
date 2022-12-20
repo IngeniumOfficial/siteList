@@ -76,14 +76,13 @@ a{
     display: grid;
     grid-template-columns: 0.2fr 1fr 1.3em;
     grid-template-areas: "titleicon description copylink";
-    grid-column-gap: 0;
+    grid-column-gap: 1em;
     justify-items: center;
     justify-content: center;
     align-content: center;
     grid-auto-flow: row;
 
     .title-icon{
-        border: 1px solid green;
         grid-area: titleicon;
         justify-self: stretch;
         align-self: stretch;
@@ -95,7 +94,6 @@ a{
     }
 
     .description-link{
-        border: 1px solid blue;
         grid-area: description;
         justify-self: stretch;
         align-self: stretch;
@@ -126,7 +124,6 @@ a{
         }
     }
     #button{
-        border: 1px solid red;
         grid-area: copylink;
         justify-self: stretch;
         align-self: stretch;
@@ -186,4 +183,9 @@ a{
     // .description-link{
     //     width: 50%;
     // }
+}
+
+// Sub-Phone Width
+@media screen and (max-width: 250px){
+    .idLogo{ display: none; }
 }
