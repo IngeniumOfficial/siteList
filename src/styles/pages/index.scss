@@ -45,17 +45,17 @@ $buttonPadding: 0.75em 1em 0.75em 1em;
 
 @media screen and (max-width : 999px){
     #home-main-container{
-        font-size: 15px;
-        .button{ font-size: 15px; }
-        #collectionButton{ font-size: 15px; }
+        font-size: 17px;
+        .button{ font-size: 17px; }
+        #collectionButton{ font-size: 17px; }
     }
 }
 
 @media screen and (max-width: 750px){
     #home-main-container{
-        font-size: 12px;
-        .button{ font-size: 12px; }
-        #collectionButton{ font-size: 12px; }
+        font-size: 15px;
+        .button{ font-size: 15px; }
+        #collectionButton{ font-size: 15px; }
     }
 }
 
@@ -65,9 +65,9 @@ $buttonPadding: 0.75em 1em 0.75em 1em;
 
 @media screen and (max-width: 520px){
     #home-main-container{
-        font-size: 11px;
-        .button{ font-size: 11px; }
-        #collectionButton{ font-size: 11px; }
+        font-size: 13px;
+        .button{ font-size: 13px; }
+        #collectionButton{ font-size: 13px; }
     }
 }
 

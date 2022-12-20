@@ -1,0 +1,41 @@
+$primarycolor: #F9F5EB;
+$secondarycolor: #EAE3D2;
+$tertiarycolor: #607EAA;
+$quaternarycolor: #1C3879;
+
+#contactusMain{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .headlines{
+        background-color: $quaternarycolor;
+        color: $primarycolor;
+        width: 80%;
+        padding: 1em;
+        border-radius: 1em;
+    }
+    
+    #formComponent{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+
+        background-color: $quaternarycolor;
+        color: $primarycolor;
+        width: 80%;
+        padding: 1em;
+
+        border-radius: 1em;
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        
+        textarea{ background-color: $primarycolor; border-radius: 1em; padding: 0.5em; font-size: 1em; }
+        button{ background-color: $primarycolor; padding: 0.5em; border-radius: 1em; font-size: 1em; margin-top: 1em; }
+        input{ background-color: $primarycolor; border-radius: 1em; padding: 0.5em; font-size: 1em; }
+    }
+}

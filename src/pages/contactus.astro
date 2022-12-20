@@ -1,0 +1,13 @@
+---
+import SiteListLayout from "../layouts/SiteListLayout.astro";
+import '../styles/pages/contactus.scss';
+import Form from "../components/contactus/Form";
+---
+
+<SiteListLayout>
+    <div id="contactusMain">
+        <h3 class="headlines">Let us know below if there's something we're missing or if you enjoy this website!</h3>
+        <Form client:only="solid-js" />
+        <h3 class="headlines">If you enjoyed this website experience, feel free to donate to help keep this project up.</h3>
+    </div>
+</SiteListLayout>

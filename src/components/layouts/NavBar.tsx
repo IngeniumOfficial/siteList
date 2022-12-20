@@ -55,7 +55,7 @@ const NavBar: Component = () => {
     return(
         <Show when={window.innerWidth >= 400} fallback={
             <nav>
-               <h3 id='sitetitle'>Sitelist</h3>
+               <a href="/"><h3 id='sitetitle'>Sitelist</h3></a>
                <img onclick={viewMenu} src={hamburgerRightUnaligned} style={{ "width": "2.2em" }} /> 
                <Show when={showMenu()}>
                     <div id="leftManu" style={leftMenuStyle} onClick={viewMenu}></div>

@@ -157,13 +157,15 @@ a{
 }
 
 @media screen and (max-width : 999px){
-    #general-list{ font-size: 15px; }
-    button{ font-size: 15px; }
+    #general-list{ font-size: 17px; }
+    button{ font-size: 17px; }
+    select{ font-size: 17px; }
 }
 
 @media screen and (max-width: 750px){
-    #general-list{ font-size: 12px; }
-    button{ font-size: 12px; }
+    #general-list{ font-size: 15px; }
+    button{ font-size: 15px; }
+    select{ font-size: 15px; }
 }
 
 @media screen and (max-width: 600px){
@@ -171,8 +173,9 @@ a{
 }
 
 @media screen and (max-width: 520px){
-    .description-link{ font-size: 11px; }
-    button{ font-size: 11px; }
+    .description-link{ font-size: 13px; }
+    button{ font-size: 13px; }
+    select{ font-size: 13px; }
 }
 
 // Phone Width
