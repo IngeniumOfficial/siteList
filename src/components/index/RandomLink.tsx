@@ -8,7 +8,7 @@ const RandomLink: Component = () => {
         <div id="randomLink">
 			<h3>At the Moment, we Only Have an Active Page for Books and Education.</h3>
 			<h3>If you'd like to get a random link, press the button below.</h3>
-            <a href="/error"><button>Please Don't Push Me, I Don't Work Yet</button></a>
+            <a href="/error"><h3 class="button">Please Don't Push Me, I Don't Work Yet</h3></a>
 		</div>
     )
 }

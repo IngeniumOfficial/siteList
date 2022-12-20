@@ -8,8 +8,7 @@ $quaternarycolor: #1C3879;
 $heebo-300: 'Heebo', sans-serif;
 
 $generalfontsize: 20px;
-$buttonFontSize: 20px;
-$buttonPadding: 10px 15px 10px 15px;
+$buttonPadding: 0.75em 1em 0.75em 1em;
 
 #home-main-container{
     font-size: $generalfontsize;
@@ -22,17 +21,17 @@ $buttonPadding: 10px 15px 10px 15px;
     a{
         text-decoration: none;
     }
-
+    
     #collectionButton{
-        font-size: $buttonFontSize;
+        font-size: $generalfontsize;
         background-color: $quaternarycolor;
         color: white;
         padding: $buttonPadding;
-        border-radius: 10px;
+        border-radius: 0.75em;
     }
     
     #randomLink{
-       
+        
         
         button{
             font-size: $generalfontsize;
@@ -42,3 +41,42 @@ $buttonPadding: 10px 15px 10px 15px;
         }
     }
 }
+
+
+@media screen and (max-width : 999px){
+    #home-main-container{
+        font-size: 15px;
+        .button{ font-size: 15px; }
+        #collectionButton{ font-size: 15px; }
+    }
+}
+
+@media screen and (max-width: 750px){
+    #home-main-container{
+        font-size: 12px;
+        .button{ font-size: 12px; }
+        #collectionButton{ font-size: 12px; }
+    }
+}
+
+// @media screen and (max-width: 600px){
+//     .contentItem{ width: 90%; }
+// }
+
+@media screen and (max-width: 520px){
+    #home-main-container{
+        font-size: 11px;
+        .button{ font-size: 11px; }
+        #collectionButton{ font-size: 11px; }
+    }
+}
+
+// // Phone Width
+// @media screen and (max-width: 400px){
+//     .contentItem{
+//         gap: 0px;
+//     }
+//     .description-link{
+//         width: 50%;
+//     }
+// }
