@@ -13,10 +13,11 @@ $mainSectionGap: 20px;
 $mainSection2Gap: 20px;
 $genfontsize: 18px;
 
-$linkwidth: 80%;
+$linkwidth: 80vw;
 $leftwidth: 20%;
 $centerwidth: 75%;
 $rightwidth: 5%;
+$implicitMargins: -20px;
 
 
 select{
@@ -62,6 +63,7 @@ a{
 }
 
 .contentItem{
+    width: $linkwidth;
     margin-top: $contentGaps;
     margin-bottom: $contentGaps;
     padding: $contentpadding;
@@ -72,35 +74,44 @@ a{
     // transition: all .2s ease-in-out;
 
     display: grid;
-    grid-template-columns: 20% 75% 5%;
+    grid-template-columns: 0.2fr 1fr 1.3em;
     grid-template-areas: "titleicon description copylink";
-    max-width: $linkwidth;
+    grid-column-gap: 0;
+    justify-items: center;
+    justify-content: center;
+    align-content: center;
+    grid-auto-flow: row;
 
     .title-icon{
+        border: 1px solid green;
         grid-area: titleicon;
+        justify-self: stretch;
+        align-self: stretch;
         display: flex;
         flex-direction: row;
         align-items: center;
         justify-content: center;
         gap: 1em;
-        width: $leftwidth;
-        max-width: $leftwidth;
     }
 
-
     .description-link{
+        border: 1px solid blue;
         grid-area: description;
+        justify-self: stretch;
+        align-self: stretch;
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
         gap: 0;
-        max-width: $centerwidth;
+        // max-width: $centerwidth;
         overflow-wrap: break-word;
+        margin: 0;
 
         
         a{
             overflow-wrap: break-word;
+            margin: 0;
         }
         
         p{
@@ -114,13 +125,15 @@ a{
             overflow-wrap: break-word;
         }
     }
-
     #button{
+        border: 1px solid red;
         grid-area: copylink;
+        justify-self: stretch;
+        align-self: stretch;
         display: inline-block;
-        margin: 0;
-        border: 0;
         background-color: inherit;
+        margin: 0;
+        // padding: 0 3em 0 3em;
 
         width: 1.3em;
     }
@@ -130,6 +143,9 @@ a{
         cursor: pointer;
     }
 
+
+
+
 }
 
 // .contentItem:hover{
@@ -138,6 +154,7 @@ a{
 // }
 
 .idLogo{
+    display: inline-block;
     height: $idLogoSize;
     width: $idLogoSize;
 }
@@ -166,7 +183,7 @@ a{
     .contentItem{
         gap: 0px;
     }
-    .description-link{
-        width: 50%;
-    }
+    // .description-link{
+    //     width: 50%;
+    // }
 }
