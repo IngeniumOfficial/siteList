@@ -1,5 +1,6 @@
 import type { Component } from "solid-js";
 import { createSignal, Show, Ref, createMemo } from "solid-js";
+import { formurl } from '../../environment';
 
 
 const Form: Component = () => {
@@ -18,7 +19,7 @@ const Form: Component = () => {
         message: ''
     };
 
-    const url = process.env.formurl;
+    
 
     const errorHandler = (field: any) => {
         setErrorField(field);
@@ -56,6 +57,8 @@ const Form: Component = () => {
         submitData();
         
     }
+
+    const url = formurl;
 
     const submitData = async() => {
         const result = await fetch(url, {
