@@ -1,7 +1,17 @@
 ---
-import SiteListLayout from "../layouts/SiteListLayout.astro";
+import '../styles/pages/thankyou.scss';
+import ConfettiCanvas from '../components/thankyou/ConfettiCanvas';
 ---
 
-<SiteListLayout>
-    <h3>Your message was sent. Thank you for contacting Us. If you left an email, we will try to respond shortly.</h3>
-</SiteListLayout>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>Sitelist Official</title>
+    </head>
+    <body>
+        <ConfettiCanvas client:only='solid-js' />
+    </body>
+</html>

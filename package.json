@@ -13,6 +13,7 @@
   "dependencies": {
     "@astrojs/solid-js": "^1.2.3",
     "astro": "^1.6.14",
+    "confetti-js": "^0.0.18",
     "sass": "^1.56.2",
     "solid-js": "^1.6.4"
   },

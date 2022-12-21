@@ -1,0 +1,53 @@
+$primarycolor: #F9F5EB;
+$secondarycolor: #EAE3D2;
+$tertiarycolor: #607EAA;
+$quaternarycolor: #1C3879;
+
+body{
+    margin: 0;
+
+    #confettiStuff{
+
+        canvas{
+            // width: 100%;
+            // height: 100px;
+            z-index: -100;
+        }
+
+        #text{
+            text-align: center;
+            z-index: 100;
+            border-radius: 1em;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+
+
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+
+            h3{
+                background-color: $tertiarycolor;
+                color: $primarycolor;
+                padding: 2em;
+                border-radius: 1em;
+                max-width: 50%;
+            }
+
+            button{
+                background-color: $tertiarycolor;
+                color: $primarycolor;
+                padding: 2em;
+                border-radius: 1em;
+                font-size: 1em;
+                border: 0;
+            }
+
+            button:hover{ background-color: $quaternarycolor; }
+        }
+    }
+}
