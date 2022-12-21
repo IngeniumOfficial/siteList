@@ -200,24 +200,24 @@
                     "SLSName": "Domain and DNS Lookup",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Crt.sh",
+                            "url": "https://crt.sh/",
+                            "description": "Look up the history and data associated with the certificates of indicated domains."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "DNS History",
+                            "url": "https://dnshistory.org/",
+                            "description": "DNS History provides an archive of billions of DNS records from nearly a billion different domains. You can search up any domain or browse through the sorted data."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Carbon Dating the Web",
+                            "url": "https://carbondate.cs.odu.edu/",
+                            "description": "Use this tool to “Predict the Birthday of a Webpage.”"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Mamont’s open FTP Index",
+                            "url": "https://www.mmnt.net/",
+                            "description": "“Browsable directory listing of publicly available FTP-sites.”"
                         }
                     ]
                 },
@@ -225,24 +225,24 @@
                     "SLSName": "Archived Websites",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Archive.today",
+                            "url": "https://archive.ph/",
+                            "description": "Archive any active url and search through archived snapshots."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "CachedPages",
+                            "url": "http://www.cachedpages.com/",
+                            "description": "Get the cached page of any available URL."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "CachedView",
+                            "url": "https://cachedview.com/",
+                            "description": "“The Google Cache Browser for any page on the Internet.”"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Internet Archive/Wayback Machine",
+                            "url": "https://web.archive.org/",
+                            "description": "Look through the internet archive and use the wayback machine to look at previous screenshots of websites."
                         }
                     ]
                 },
@@ -250,14 +250,14 @@
                     "SLSName": "Website Data Extractor",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "ShadowCrypt - Page Link Extractor",
+                            "url": "https://shadowcrypt.net/tools/pagelinks",
+                            "description": "This tool scans a web page and lists all hyperlinks on the site."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Image Extractor",
+                            "url": "https://extract.pics/",
+                            "description": "“extract, view and download images from any public website.”"
                         }
                     ]
                 },
@@ -265,34 +265,34 @@
                     "SLSName": "Security",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Sploitus",
+                            "url": "https://sploitus.com/",
+                            "description": "A search engine for vulnerabilities and threats."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Vulmon",
+                            "url": "https://vulmon.com/",
+                            "description": "A vulnerability search engine."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "RAPID7",
+                            "url": "https://www.rapid7.com/db/",
+                            "description": "A Vulnerability and Exploit Database."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Exploit Database (GHDB)",
+                            "url": "https://www.exploit-db.com/google-hacking-database/",
+                            "description": "Google Hacking Database."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Censys",
+                            "url": "https://search.censys.io/",
+                            "description": "A Search engine for IP addresses, protocols, and more."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "LeakIX",
+                            "url": "https://leakix.net/",
+                            "description": "“LeakIX is the first platform combining a search engine indexing public information AND an open reporting platform linked to the results.”"
                         }
                     ]
                 },
@@ -300,24 +300,24 @@
                     "SLSName": "IP and Tag Resolvers",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "PlayStation Resolver",
+                            "url": "https://playstationresolver.xyz/",
+                            "description": "Playstation gamertag resolver."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "xResolver",
+                            "url": "https://xresolver.com/",
+                            "description": "PlayStation, Xbox, and GTA V gamer tag resolver."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Skype IP Resolver",
+                            "url": "http://www.skypeipresolver.net/index.php",
+                            "description": "Skype IP Resolver."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "DNL - DarkNet Live",
+                            "url": "https://darknetlive.com/onions/",
+                            "description": "List of Onion Service Links."
                         }
                     ]
                 },
@@ -325,19 +325,19 @@
                     "SLSName": "Onion / Tor (DarkWeb)",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Dark Tracer",
+                            "url": "https://darktracer.io/",
+                            "description": "Analyze suspicious onion addresses to find Real IP Addresses."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Onion Search Engine",
+                            "url": "https://onionengine.com/",
+                            "description": "Onion Network Search Engine."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Tor2Web: Tor Hidden Services",
+                            "url": "https://tor2web.onionsearchengine.com/",
+                            "description": "Gateway to hidden services from Tor."
                         }
                     ]
                 },
@@ -345,9 +345,19 @@
                     "SLSName": "Other",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Hunter",
+                            "url": "https://hunter.io/",
+                            "description": "This website will find any emails associated with a domain to allow you to reach out to anyone that might be of interest. This tool can be used professionally to grow connections or to help with open source learning."
+                        },
+                        {
+                            "name": "Mac Address Lookup",
+                            "url": "https://maclookup.app/",
+                            "description": "“Find the vendor name of a device by entering an OUI or a Mac Address.”"
+                        },
+                        {
+                            "name": "Iana - Root Zone Database",
+                            "url": "https://www.iana.org/domains/root/db/",
+                            "description": "“The Root Zone Database represents the delegation details of top-level domains, including gTLDs such as .com, and country-code TLDs such as .uk.”"
                         }
                     ]
                 }
@@ -362,24 +372,24 @@
                     "SLSName": "Privacy Focused",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "MetaGer",
+                            "url": "https://metager3.de/en/",
+                            "description": "A privacy-focused Search Engine, doesn’t track you or sell your data, based in Germany."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "QWANT",
+                            "url": "https://www.qwant.com/",
+                            "description": "A privacy-focused Search Engine, doesn’t track you or sell your data, based in France."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Startpage",
+                            "url": "https://www.startpage.com/",
+                            "description": "One of the very first implementations of a privacy-focused Search Engine. Startpage also has some tools for browsing the web outside the scope of its search page."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Mojeek",
+                            "url": "https://www.mojeek.com/",
+                            "description": "Mojeek is a search engine that prioritizes privacy and unbiased results."
                         }
                     ]
                 },
@@ -387,49 +397,49 @@
                     "SLSName": "Alternative Search Engines and Tools",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Synapslnt",
+                            "url": "https://synapsint.com/",
+                            "description": "The unified OSINT research tool."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Search Engines Index",
+                            "url": "https://www.searchenginesindex.com/",
+                            "description": "Index of search engines world-wide."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Search Engine Colossus",
+                            "url": "https://www.searchenginecolossus.com/",
+                            "description": "International Directory of Search Engines."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Carrot2",
+                            "url": "https://search.carrot2.org/#/search/web",
+                            "description": "Carrot^2 is a topic-focused search Engine that uses sorting tools to help you get to what you need quicker."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "MetaCrawler",
+                            "url": "https://www.metacrawler.com/",
+                            "description": "Another alternative for high performance searching."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Presearch",
+                            "url": "https://presearch.com/",
+                            "description": "An alternative, decentralized search engine."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "2lingual",
+                            "url": "https://2lingual.com/",
+                            "description": "Search for pages written in two languages at once."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Same.energy",
+                            "url": "https://same.energy/",
+                            "description": "Visual search engine."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Filepursuit",
+                            "url": "https://filepursuit.com/",
+                            "description": "A search engine that attempts to search for everything."
                         }
                     ]
                 },
@@ -437,69 +447,69 @@
                     "SLSName": "Data-Specific Search Engines",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "BoardReader",
+                            "url": "https://boardreader.com/",
+                            "description": "Forum Search Engine."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "DOC-TXT",
+                            "url": "http://www.doc-txt.com/",
+                            "description": "A document search engine."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "BTDigg",
+                            "url": "https://btdig.com/",
+                            "description": "Crawls and shows data from P2P torrents."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "CloudSEK - BeVigil",
+                            "url": "https://bevigil.com/",
+                            "description": "Security search engine for searching through mobile applications and their security ratings, among other details."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "TinEye",
+                            "url": "https://tineye.com/",
+                            "description": "Reverse Image Search."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Listen Notes",
+                            "url": "https://www.listennotes.com/",
+                            "description": "Podcast search engine."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Museo",
+                            "url": "https://museo.app/",
+                            "description": "Visual search engine that connects you with visualizations from multiple art museums."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Facesaerch",
+                            "url": "http://www.facesaerch.com/",
+                            "description": "Facesaerch uses basic google images search to require a face type for the search query."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "OD Finder",
+                            "url": "https://odfinder.github.io/",
+                            "description": "Open Directory Finder."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "ODCrawler",
+                            "url": "https://odcrawler.xyz/",
+                            "description": "Search engine for open directories."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "PDFSearch.io",
+                            "url": "https://www.pdfsearch.io/",
+                            "description": "Document Search Engine for over 18 million documents."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Webfinery",
+                            "url": "https://webfinery.com/search",
+                            "description": "Web source code search engine."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Shodan",
+                            "url": "https://www.shodan.io/",
+                            "description": "Search Engine for the Internet of Everything."
                         }
                     ]
                 },
@@ -507,9 +517,9 @@
                     "SLSName": "Archived/Cached Website Search Engines",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "QuickCacheandArchiveSearch",
+                            "url": "https://cipher387.github.io/quickcacheandarchivesearch/",
+                            "description": "This is another tool by cipher387. This tool searches the quick cache and archives of a variety of websites worldwide."
                         }
                     ]
                 },
@@ -517,49 +527,49 @@
                     "SLSName": "Query Search Tools / Dorking",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Investigator",
+                            "url": "https://abhijithb200.github.io/investigator/",
+                            "description": "Investigator is a tool made by abhijithb200. Investigator implements google dorking practices (advanced google search for potential hard-to-access information) to find information on a specified query."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "DorkSearch.com",
+                            "url": "https://dorksearch.com/",
+                            "description": "A quick-use google dorking tool that helps you build a proper dork search."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Bug Bounty Helper",
+                            "url": "https://dorks.faisalahmed.me/",
+                            "description": "Another extensive domain search and dork tool that also looks for bugs and vulnerabilities in a website."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Google Advanced Search/Dork Form",
+                            "url": "https://www.google.com/advanced_search",
+                            "description": "This is Google’s tool for doing advanced searches using their search engine."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Search Engine Scraper",
+                            "url": "https://tools.digitalmethods.net/beta/searchEngineScraper/",
+                            "description": "Search Engine Scraper"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Google dork CheatSheet",
+                            "url": "https://github.com/robyfirnandoyusuf/Google-Dork-Cheatsheet",
+                            "description": "CheatSheet for Google Dorking"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "My Google CSE",
+                            "url": "https://github.com/Sprp77/My-Google-CSE/blob/master/List%201",
+                            "description": "A collection of search engine terms through Google made by Sprp77."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Synapslnt",
+                            "url": "https://synapsint.com/",
+                            "description": "The unified OSINT research tool."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "DOC-TXT",
+                            "url": "http://www.doc-txt.com/",
+                            "description": "A document search engine."
                         }
                     ]
                 },
@@ -567,29 +577,29 @@
                     "SLSName": "Network Details Search Engines",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Censys",
+                            "url": "https://search.censys.io/",
+                            "description": "A Search engine for IP addresses, protocols, and more."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Phonebook.cz",
+                            "url": "https://phonebook.cz/",
+                            "description": "Lists all domains, email addresses, or URLs for the given input domain."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Synapslnt",
+                            "url": "https://synapsint.com/",
+                            "description": "The unified OSINT research tool."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "IPFS Search Engine",
+                            "url": "https://ipfs-search.com/#/search",
+                            "description": "An IPFS Search Engine."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Search Public Buckets",
+                            "url": "https://buckets.grayhatwarfare.com/",
+                            "description": "Search public buckets."
                         }
                     ]
                 },
@@ -597,29 +607,29 @@
                     "SLSName": "Personal Details Search Engines",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Gravatar Search",
+                            "url": "https://en.gravatar.com/site/check/",
+                            "description": "Searches avatars based on email."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Webmii",
+                            "url": "https://webmii.com/",
+                            "description": "The people search engine."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "People Search Tool",
+                            "url": "https://www.aware-online.com/en/osint-tools/people-search-tool/",
+                            "description": "This tool helps you set up proper search methods to find information on someone through Google."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Phonebook.cz",
+                            "url": "https://phonebook.cz/",
+                            "description": "Lists all domains, email addresses, or URLs for the given input domain."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Synapslnt",
+                            "url": "https://synapsint.com/",
+                            "description": "The unified OSINT research tool."
                         }
                     ]
                 },
@@ -627,24 +637,24 @@
                     "SLSName": "Social Media Search Engines",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Social Searcher",
+                            "url": "https://www.social-searcher.com/",
+                            "description": "Free social media search engine."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Hashatit",
+                            "url": "https://www.hashatit.com/",
+                            "description": "The Ultimate Social Media Search Engine."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Recruit’em",
+                            "url": "https://recruitin.net/stackoverflow.php#",
+                            "description": "Easily use Google to search profiles on Stack Overflow."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Kribrum",
+                            "url": "https://kribrum.io/search",
+                            "description": "Public Russian search through social media."
                         }
                     ]
                 },
@@ -652,24 +662,24 @@
                     "SLSName": "Website-Specific Search Engines",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Filmot",
+                            "url": "https://filmot.com/",
+                            "description": "This tool searches through all available youtube videos for specified subtitles. Simply type in a phrase and this tool will try to find a youtube video that contains this phrase in its subtitles."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Mega.NZ file Search",
+                            "url": "https://www.meganzsearch.com/",
+                            "description": "A Search Engine for Mega.NZ files."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "SearchTempest",
+                            "url": "https://www.searchtempest.com/",
+                            "description": "Search engine for facebook, craigslist, and more."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "DriveSearch",
+                            "url": "https://drivesearch.kwebpia.net/",
+                            "description": "Search tool for Google Drive."
                         }
                     ]
                 },
@@ -677,19 +687,19 @@
                     "SLSName": "Block-chain and Web3 Search Engines",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Blockscan",
+                            "url": "https://blockscan.com/",
+                            "description": "Block-chain search tool."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "PUBLC",
+                            "url": "https://publc.com/",
+                            "description": "A web 3.0 search engine."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Etherscan",
+                            "url": "https://etherscan.io/",
+                            "description": "Ethereum block-chain (transaction) search engine."
                         }
                     ]
                 },
@@ -697,6 +707,93 @@
                     "SLSName": "DarkNet / Dark Web",
                     "SLSList": [
                         {
+                            "name": "Raklet - Onion Proxy Link",
+                            "url": "http://iwr4usy33opfclmbyemzbmnwwnmmqpqltezpac7fyqqkdv3mabtm6kqd.onion.pet/",
+                            "description": "Raclette search engine"
+                        },
+                        {
+                            "name": "Havocscope",
+                            "url": "https://havocscope.com/",
+                            "description": "“Havocscope provides information and threat intelligence on the global black market.”"
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Other",
+                    "SLSList": [
+                        {
+                            "name": "DuckDuckGo (Read Important Note)",
+                            "url": "https://duckduckgo.com/",
+                            "description": "Important Note: DuckDuckGo has been found to track your data from Microsoft ad scripts! They advertise themselves as privacy-first, but this is not 100% true. It was put in the other section for this reason."
+                        },
+                        {
+                            "name": "Regex101",
+                            "url": "https://regex101.com/",
+                            "description": "This tool helps write correct regular expressions by allowing you to test your regular expressions on their website. You can save a link to your regular expression for future use."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "subsection": "SocialMedia",
+            "subsectionName": "Social Media",
+            "SLSCount": 14,
+            "SLS": [
+                {
+                    "SLSName": "Discord",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
                             "name": "",
                             "url": "",
                             "description": ""
@@ -709,8 +806,858 @@
                     ]
                 },
                 {
-                    "SLSName": "Other",
+                    "SLSName": "Reddit",
                     "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Twitch",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Twitter",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Instagram",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Facebook",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Youtube",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Telegram",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Snapchat",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Tiktok",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "LinkedIn",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "What'sApp",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "4Chan/8Chan",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Other / Multiple Social Media OSINT",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
                         {
                             "name": "",
                             "url": "",
@@ -726,12 +1673,87 @@
             ]
         },
         {
-            "subsection": "nospace",
-            "subsectionName": "space here",
-            "SLSCount": 0,
+            "subsection": "PeopleandIdentity",
+            "subsectionName": "People and Identity",
+            "SLSCount": 5,
             "SLS": [
                 {
-                    "SLSName": "default",
+                    "SLSName": "Fake Identities and Generators",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Email Tools",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Phone Tools",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Name Tools",
+                    "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "SLSName": "Computer Software",
                     "SLSList": [
                         {
                             "name": "",
@@ -743,13 +1765,73 @@
             ]
         },
         {
-            "subsection": "nospace",
-            "subsectionName": "space here",
-            "SLSCount": 0,
+            "subsection": "GovernmentsandPublicRecords",
+            "subsectionName": "Governments and Public Records",
+            "SLSCount": 1,
             "SLS": [
                 {
                     "SLSName": "default",
                     "SLSList": [
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
+                        {
+                            "name": "",
+                            "url": "",
+                            "description": ""
+                        },
                         {
                             "name": "",
                             "url": "",
