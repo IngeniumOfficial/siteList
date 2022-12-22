@@ -29,6 +29,7 @@ button{
 
 #general-list{
     overflow-wrap: break-word;
+    text-align: center;
 
     #save-link-description{
         width: 1em;
@@ -122,6 +123,10 @@ a{
             font-weight: bold;
             overflow-wrap: break-word;
         }
+
+        .contentLink{
+            word-break: break-all;
+        }
     }
     #button{
         grid-area: copylink;
@@ -133,11 +138,16 @@ a{
         // padding: 0 3em 0 3em;
 
         width: 1.3em;
+        height: 1.3em;
+        align-self: center;
+
+        transition: all .2s ease-in-out;
     }
 
     #button:hover{
-        background-color: $quaternarycolor;
         cursor: pointer;
+
+        transform: scale(1.25);
     }
 
 

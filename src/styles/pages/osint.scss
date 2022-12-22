@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+$heebo-300: 'Heebo', sans-serif;
+
+$fontsizebookspage: 18px;
+
+// select{font-size: $fontsizebookspage;}
+// button{font-size: $fontsizebookspage;}
+// label{font-size: $fontsizebookspage;}
+
+#osint-content{
+    text-align: center;
+
+    font-size: $fontsizebookspage;
+}
+
+#osint-info{
+
+    #bottomlist{
+    }
+}
+
+@media screen and (max-width : 999px){
+    #osint-content{ font-size: 17px; }
+}
+
+@media screen and (max-width: 750px){
+    #osint-content{ font-size: 15px; }
+}
+
+@media screen and (max-width: 520px){
+    #osint-content{ font-size: 13px; }
+}
+
+// Sub-Phone Width
+@media screen and (max-width: 350px){
+}

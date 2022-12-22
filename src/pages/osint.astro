@@ -1,13 +1,17 @@
 ---
 import SiteListLayout from "../layouts/SiteListLayout.astro";
+import OSINTContent from "../components/osint/OSINTContent";
+import '../styles/pages/osint.scss';
 ---
 
 <SiteListLayout>
     <div id="osint-content">
         <h3>Open Source Intelligence (OSINT)</h3>
-        
-        <div id="osintLinks">
+        <OSINTContent client:only='solid-js' />
+        <div id="osint-info">
+            <div id="bottomList">
 
+            </div>
         </div>
     </div>
 </SiteListLayout>

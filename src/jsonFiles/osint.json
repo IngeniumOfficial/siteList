@@ -744,64 +744,64 @@
                     "SLSName": "Discord",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Discord Lookup",
+                            "url": "https://discord.id/",
+                            "description": "Look up information regarding a discord user ID. They also have a guide on how to find the user ID from discord."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Discord Snowflake",
+                            "url": "https://snowsta.mp/",
+                            "description": "This tool works in a very similar fashion. Simply input the collected id from anything on a discord server that has a timestamp."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Discordhub",
+                            "url": "https://discordhub.com/user/search",
+                            "description": "Discord User search"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Hugo.moe",
+                            "url": "https://hugo.moe/discord/discord-id-creation-date.html",
+                            "description": "Discord ID Creation Date Checker"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "DiscordMe",
+                            "url": "https://discord.me/servers",
+                            "description": "Public Discord Servers and Bots"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Discord Bot List",
+                            "url": "https://discordbotlist.com/",
+                            "description": "Find the best Discord Bots for your server."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Top.gg",
+                            "url": "https://top.gg/",
+                            "description": "Explore millions of Discord Bots and Servers"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Discord.bots.gg",
+                            "url": "https://discord.bots.gg/",
+                            "description": "The official page for discord bots"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Disboard",
+                            "url": "https://disboard.org/search",
+                            "description": "Search discord servers"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Discord Bee",
+                            "url": "https://discordbee.com/",
+                            "description": "A tool to search for discord servers"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Serverse",
+                            "url": "https://extraction.team/serverse.html",
+                            "description": "Search for Discord servers by keyword"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Discord.Center",
+                            "url": "https://discord.center/",
+                            "description": "Discord Server List"
                         }
                     ]
                 },
@@ -809,89 +809,89 @@
                     "SLSName": "Reddit",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Redective",
+                            "url": "https://www.redective.com/",
+                            "description": "Search for data on usernames and subreddits on reddit."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Karma Decay",
+                            "url": "http://karmadecay.com/",
+                            "description": "Reverse image search of Reddit"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Reddit Search",
+                            "url": "https://camas.unddit.com/",
+                            "description": "This site is a Reddit Search"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Bmai.dev",
+                            "url": "https://bmai.dev/reddit/",
+                            "description": "Reddit search tool"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Analyze a Reddit User",
+                            "url": "https://reddit-user-analyser.netlify.app/",
+                            "description": "Analyze a Reddit User"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Reddit Comment Search",
+                            "url": "https://redditcommentsearch.com/",
+                            "description": "Search through comments of a particular reddit user"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Resavr",
+                            "url": "https://www.resavr.com/",
+                            "description": "Deleted reddit comments search"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Reddit Search",
+                            "url": "https://redditsearch.io/",
+                            "description": "Search reddit comments."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Map of Reddit",
+                            "url": "https://anvaka.github.io/map-of-reddit/?x=260683.00069999043&y=425468.35493382806&z=615624.4584051393",
+                            "description": "Visualization tool for Reddit"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "YASIV for Reddit",
+                            "url": "http://yasiv.com/reddit",
+                            "description": "Reddit search"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "RedditMetis",
+                            "url": "https://redditmetis.com/",
+                            "description": "See statistics for a Reddit Account"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Deaditarchive",
+                            "url": "https://deaditarchive.netlify.app/",
+                            "description": "Archive of purged communities on Reddit"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Subreddit User-Overlap",
+                            "url": "https://subredditstats.com/subreddit-user-overlaps",
+                            "description": "Check subreddit user overlaps with other subreddits"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Teddit",
+                            "url": "https://teddit.net/",
+                            "description": "Reddit privacy-first clone"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Libreddit",
+                            "url": "https://libredd.it/",
+                            "description": "Reddit, but with a privacy-first front-end"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Redditle",
+                            "url": "https://redditle.com/",
+                            "description": "Reddit-only google search"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Better Reddit Search",
+                            "url": "https://betterredditsearch.web.app/",
+                            "description": "A reddit search tool that guides you through making google searches of reddit"
                         }
                     ]
                 },
@@ -899,54 +899,54 @@
                     "SLSName": "Twitch",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Logs.ivr.fi",
+                            "url": "https://logs.ivr.fi/",
+                            "description": "Twitch Channel Logs"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Twitch Database",
+                            "url": "https://www.twitchdatabase.com/following",
+                            "description": "Check username following data for Twitch"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "TwitchTracker",
+                            "url": "https://twitchtracker.com/",
+                            "description": "Search for a streamer or game"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "SullyGnome",
+                            "url": "https://sullygnome.com/",
+                            "description": "Twitch statistics and analytics"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Twitch Leaks",
+                            "url": "https://archive.ph/IBNSS",
+                            "description": "Archived website of the infamous twitch leak."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Twitch Earnings Lookup",
+                            "url": "https://twitch.fckdmca.com/",
+                            "description": "Twitch Earnings Lookup"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Twitch Tools",
+                            "url": "https://twitch-tools.rootonline.de/channel_previews.php",
+                            "description": "Twitch stream advanced search"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Twitch Community Overlap",
+                            "url": "https://stats.roki.sh/",
+                            "description": "Viewer and audience overlap stats between different channels on Twitch"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Twitch Stats",
+                            "url": "https://twitchstats.net/",
+                            "description": "This tool tracks live analytics and statistics."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Twitch Tools by @CommanderRoot",
+                            "url": "https://twitch-tools.rootonline.de/followerlist_viewer.php",
+                            "description": "View followers of any Twitch account. This tool also allows you to filter how you see the followers."
                         }
                     ]
                 },
@@ -954,179 +954,174 @@
                     "SLSName": "Twitter",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "#tagdef",
+                            "url": "https://tagdef.com/en/",
+                            "description": "Discover what hashtags mean, and add your own definitions."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Bird Hunt",
+                            "url": "https://birdhunt.co/",
+                            "description": "This tool searches for tweets within a selected radius on the world map."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Twitter Advanced Search",
+                            "url": "https://twitter.com/search-advanced",
+                            "description": "An advanced search tool - by twitter, for twitter."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Nitter",
+                            "url": "https://nitter.net/",
+                            "description": "Twitter user and user tag search."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Tweet Tunnel",
+                            "url": "https://tweettunnel.com/reverse.php",
+                            "description": "User posts lookup"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "TweetedAt",
+                            "url": "https://oduwsdl.github.io/tweetedat/",
+                            "description": "Search up Tweet information."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "TruthNest",
+                            "url": "https://app.truthnest.com/login",
+                            "description": "Twitter analytics tool"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Hoaxy",
+                            "url": "https://hoaxy.osome.iu.edu/",
+                            "description": "Just as the site description reads…”Visualize the spread of information on Twitter”"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Twitter User Search - pushshift.io",
+                            "url": "https://pushshift.io/twitter-user-search/",
+                            "description": "Twitter User Search"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Tweetmap",
+                            "url": "https://www.heavy.ai/demos/tweetmap",
+                            "description": "A mapping tool that helps visualize tweet locations"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "TwiMap",
+                            "url": "https://twimap.com/",
+                            "description": "Map of tweets"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "HeavyAi - TweetMap",
+                            "url": "https://www.heavy.ai/demos/tweetmap",
+                            "description": "A map of tweets"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "#onemilliontweetmap",
+                            "url": "https://onemilliontweetmap.com/?center=25.505,-0.09&zoom=2&search=&timeStep=0&timeSelector=0&hashtag1=&hashtag2=sad&sidebar=yes&hashtagBattle=0&timeRange=0&timeRange=25&heatmap=0&sun=0&cluster=1",
+                            "description": "Visualized map of tweets."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "MakeAdverbsGreatAgain",
+                            "url": "https://makeadverbsgreatagain.org/allegedly/",
+                            "description": "Twitter account data visualizer."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "TweeView",
+                            "url": "https://tweeview.ml/",
+                            "description": "Tree-based way of visualizing Twitter conversations."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Trendsmap",
+                            "url": "https://www.trendsmap.com/map",
+                            "description": "World map of Twitter trends."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Tweetsmap",
+                            "url": "https://tweepsmap.com/",
+                            "description": "AI driven twitter analytics and management."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "All my Tweets",
+                            "url": "https://www.allmytweets.net/connect/",
+                            "description": "View all your tweets, likes, followers or timeline on one page."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Twitter Trails",
+                            "url": "http://twittertrails.com/",
+                            "description": "A tool that allows members of the media to track the trustworthiness of stories shared on Twitter"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Mentionmapp",
+                            "url": "https://analytics.mentionmapp.com/",
+                            "description": "“Visualize and explore critical relationships and find out who’s involved in interesting conversations”"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Twiangulate",
+                            "url": "https://twiangulate.com/search/",
+                            "description": "This tool helps you find common interests of many users depending on who they are currently following."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Doesfollow",
+                            "url": "https://doesfollow.com/",
+                            "description": "Keep tabs on who follows whom"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "VICINITAS",
+                            "url": "https://www.vicinitas.io/free-tools/download-twitter-followers",
+                            "description": "Download list of twitter followers for free"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Geosocial Footprint",
+                            "url": "http://geosocialfootprint.com/",
+                            "description": "Detect a user’s geosocial footprint based on data from Twitter"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Bot Sentinel",
+                            "url": "https://botsentinel.com/",
+                            "description": "Bot Sentinel scrapes information from Twitter and classifies accounts into categories, which are then stored in a database."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Botometer",
+                            "url": "https://botometer.osome.iu.edu/",
+                            "description": "Checks the activity of a Twitter account and gives it a score. Higher scores mean more bot-like activity."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "followerAudit",
+                            "url": "https://www.followeraudit.com/",
+                            "description": "Check fake followers, unfollowers, track growth and analyze followers of any Twitter account"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Circleboom",
+                            "url": "https://circleboom.com/twitter-management-tool/twitter-circle-tool/twitter-bot-checker",
+                            "description": "Twitter Bot Checker"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Smat",
+                            "url": "https://www.smat-app.com/",
+                            "description": "Analyze hate and disinformation online."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "TINFOLEAK",
+                            "url": "https://tinfoleak.com/",
+                            "description": "Search for Twitter users leaks."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Account Analysis",
+                            "url": "https://accountanalysis.app/",
+                            "description": "Tool that evaluates Twitter accounts."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "TwitterVideoDownloader.com",
+                            "url": "https://twittervideodownloader.com/",
+                            "description": "Twitter Video Downloader."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Tweet Archivist",
+                            "url": "http://www.tweetarchivist.com/",
+                            "description": "Essential analytics for tracking and archiving Twitter."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
-                        },
-                        {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Sleeping Time",
+                            "url": "http://sleepingtime.org/",
+                            "description": "Find the sleeping schedule of anyone on Twitter."
                         }
                     ]
                 },
@@ -1134,69 +1129,69 @@
                     "SLSName": "Instagram",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Instahunt",
+                            "url": "https://instahunt.co/",
+                            "description": "Instahunt will show you instagram places and posts that are related to a selected location. Simply pick a place on a map, and Instahunt will show whatever it can find related to that location. You will need to be logged in to your instagram for this to work."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Imginn",
+                            "url": "https://imginn.com/",
+                            "description": "Instagram account lookup and image/video download tool."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Pixwox",
+                            "url": "https://www.pixwox.com/",
+                            "description": "Instagram account search and image/video download tool."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Picuki",
+                            "url": "https://www.picuki.com/",
+                            "description": "Edit and browse instagram content without logging in"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Gramhir",
+                            "url": "https://gramhir.com/",
+                            "description": "Instagram analyzer and viewer"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Dumpor",
+                            "url": "https://dumpor.com/",
+                            "description": "Instagram story viewer anonymously"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Storiesdown",
+                            "url": "https://storiesdown.com/",
+                            "description": "Instagram story viewer and downloader"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Instadp",
+                            "url": "https://www.instadp.com/",
+                            "description": "Download instagram profile pictures and save videos"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "iGram",
+                            "url": "https://igram.io/",
+                            "description": "Instagram downloader"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Inflact",
+                            "url": "https://inflact.com/tools/profile-analyzer/",
+                            "description": "Instagram public profile analyzer"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "InstaFollowers",
+                            "url": "https://www.instafollowers.co/find-instagram-user-id",
+                            "description": "Find user ID and get information regarding the instagram usage."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Find Instagram User ID - Code of a Ninja",
+                            "url": "https://tools.codeofaninja.com/find-instagram-user-id",
+                            "description": "Get instagram numeric ID by username"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Instamap",
+                            "url": "http://bearpanther.com/instamap/",
+                            "description": "A world map of instagram posts"
                         }
                     ]
                 },
@@ -1204,44 +1199,44 @@
                     "SLSName": "Facebook",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "HaveIBeenZuckered",
+                            "url": "https://haveibeenzuckered.com/",
+                            "description": "Facebook Data Breach Checker"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "F - Facebook (Darknet)",
+                            "url": "http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion.pet/",
+                            "description": "Search a humongous amount of indexed items from Facebook NEED I2P or TOR TO OPEN"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "F- Facebook (TOR)",
+                            "url": "http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion/",
+                            "description": "Search a humongous amount of indexed items from Facebook (NEEDS TOR TO OPEN)"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Facebook Video Downloader",
+                            "url": "https://fbdown.github.io/",
+                            "description": "Facebook Video Downloader"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Who posted what? - Facebook Tools",
+                            "url": "https://whopostedwhat.com/",
+                            "description": "Keyword search for people who work in the public interest."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Sow Search",
+                            "url": "https://www.sowsearch.info/",
+                            "description": "A tool to help create Facebook search links for what you need."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Search is Back",
+                            "url": "https://searchisback.com/",
+                            "description": "Find people and events on Facebook"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "StalkFace",
+                            "url": "https://stalkface.com/en/",
+                            "description": "To stalk someone, just enter their Facebook personal profile URL"
                         }
                     ]
                 },
@@ -1249,74 +1244,74 @@
                     "SLSName": "Youtube",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Youtube DataViewer",
+                            "url": "https://citizenevidence.amnestyusa.org/",
+                            "description": "Insert URL and view the returned Data"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Youtube Geofind",
+                            "url": "https://mattw.io/youtube-geofind/location",
+                            "description": "Search Youtube by location for geotagged videos."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Unlisted Videos",
+                            "url": "https://unlistedvideos.com/",
+                            "description": "Find unlisted youtube videos"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Mattw.io",
+                            "url": "https://mattw.io/youtube-geofind/",
+                            "description": "Youtube map channel search."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "YCF - Comment Finder",
+                            "url": "https://ytcomment.kmcat.uk/",
+                            "description": "Youtube Comment Finder."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "NSFW Youtube",
+                            "url": "https://nsfwyoutube.com/",
+                            "description": "Watch NSFW youtube videos without signing in."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "altCensored",
+                            "url": "https://www.altcensored.com/",
+                            "description": "Watch ‘limited state’ videos with easy access."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "HADZY",
+                            "url": "https://hadzy.com/",
+                            "description": "Search, sort, and analyze youtube comments."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Montage",
+                            "url": "https://montage.meedan.com/welcome",
+                            "description": "Youtube video analyzer."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "You-tldr",
+                            "url": "https://you-tldr.com/",
+                            "description": "Get the tldr of any YouTube Video in Seconds."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "SavSubs",
+                            "url": "https://savesubs.com/",
+                            "description": "Online Subtitle Convert Tools"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Deturl",
+                            "url": "https://deturl.com/",
+                            "description": "Download a YouTube video from any web page."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Watch Frame by Frame",
+                            "url": "http://www.watchframebyframe.com/",
+                            "description": "Watch Youtube and Vimeo videos frame by frame."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Anilyzer",
+                            "url": "https://anilyzer.com/",
+                            "description": "Watch youtube and vimeo videos frame by frame and slow motion."
                         }
                     ]
                 },
@@ -1324,49 +1319,49 @@
                     "SLSName": "Telegram",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "TGStat",
+                            "url": "https://tgstat.com/search",
+                            "description": "Posts search in Telegram"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "IntelligenceX",
+                            "url": "https://intelx.io/tools?tab=telegram",
+                            "description": "Helper tool to make google searches to telegram"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Lyzem",
+                            "url": "https://lyzem.com/",
+                            "description": "Search on Telegram"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Telegram Group",
+                            "url": "https://www.telegram-group.com/en/",
+                            "description": "Telegram Groups search"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Xtea",
+                            "url": "https://xtea.io/ts_en.html#gsc.tab=0",
+                            "description": "Telegram search engine for channels, bots, and groups."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Telegcrack",
+                            "url": "https://telegcrack.com/",
+                            "description": "Search on Telegram"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Telemetrio",
+                            "url": "https://telemetr.io/en/channels",
+                            "description": "Telegram channels rating"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Telegram Catalog",
+                            "url": "https://telegramcatalog.com/en/channels",
+                            "description": "Catalog of telegram channels"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "TGStat",
+                            "url": "https://tgstat.com/",
+                            "description": "Telegram channels and groups catalog"
                         }
                     ]
                 },
@@ -1374,29 +1369,29 @@
                     "SLSName": "Snapchat",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Snapchat Map",
+                            "url": "https://map.snapchat.com/",
+                            "description": "Browse the snapchat map"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "SnapScraper",
+                            "url": "https://rhematt.github.io/Snap-Scraper/",
+                            "description": "OSINT tool that allows users to download media uploaded to Snap Map"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Ghostdex",
+                            "url": "https://ghostdex.app/",
+                            "description": "Find snapchat friends and celebrities through this unofficial database of Snapchat usernames"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "GhostCodes",
+                            "url": "https://www.ghostcodes.com/",
+                            "description": "Codes for many snapchat accounts"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "(Document) Snapchat Law Enforcement Guide",
+                            "url": "https://web.archive.org/web/20210724093427/https://storage.googleapis.com/snap-inc/privacy/lawenforcement.pdf",
+                            "description": "Snapchat law Enforcement Guide"
                         }
                     ]
                 },
@@ -1404,24 +1399,24 @@
                     "SLSName": "Tiktok",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Vidnice",
+                            "url": "https://vidnice.com/search/",
+                            "description": "Tiktok Search Engine"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "TikTokD",
+                            "url": "https://tiktokd.com/",
+                            "description": "Download TikTok videos without watermark via username"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "MaveKite",
+                            "url": "https://mavekite.com/",
+                            "description": "Search for user analytics"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "SSSTik",
+                            "url": "https://ssstik.io/en",
+                            "description": "Download Tiktok videos without watermark"
                         }
                     ]
                 },
@@ -1429,19 +1424,19 @@
                     "SLSName": "LinkedIn",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Recruit-em",
+                            "url": "https://igram.io/",
+                            "description": "LinkedIn xray search"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Free People Search Tool",
+                            "url": "https://freepeoplesearchtool.com/",
+                            "description": "Find people easily on LinkedIn"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Lisearcher",
+                            "url": "https://www.lisearcher.com/",
+                            "description": "LinkedIn x-ray search tool using Google"
                         }
                     ]
                 },
@@ -1449,29 +1444,29 @@
                     "SLSName": "What'sApp",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "WATools.io",
+                            "url": "https://watools.io/",
+                            "description": "What’sApp free tools including number check and online status check."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "CellTrack",
+                            "url": "https://www.celltrack.eu/whatsapp",
+                            "description": "Retrieve the public WhatsApp profile of any number"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "WhatsApp - Information for Law Enforcement Authorities",
+                            "url": "https://faq.whatsapp.com/800085810452992/?locale=en_US",
+                            "description": "Information for Law Enforcement Authorities"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "WhatsAnalyze",
+                            "url": "https://whatsanalyze.com/",
+                            "description": "Analyze your WhatsApp Chat in Seconds"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "ChatVisualizer",
+                            "url": "https://chatvisualizer.com/",
+                            "description": "Visualize WhatsApp chats"
                         }
                     ]
                 },
@@ -1479,54 +1474,54 @@
                     "SLSName": "4Chan/8Chan",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Archived.moe",
+                            "url": "https://archived.moe/",
+                            "description": "4Chan archive and search engine"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "ArchiveofSins - NSFW(18+)",
+                            "url": "https://archiveofsins.com/",
+                            "description": "4Chan Archive NSFW"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Desuarchive",
+                            "url": "https://desuarchive.org/",
+                            "description": "Archive of 4Chan"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "The /b/ archive",
+                            "url": "https://thebarchive.com/",
+                            "description": "A 4chan archive"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "4Chan Search",
+                            "url": "https://4chansearch.com/",
+                            "description": "4Chan Search Engine"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Search4Chan",
+                            "url": "https://search4chan.org/",
+                            "description": "4Chan Search Engine"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Find.4chan.org",
+                            "url": "https://find.4chan.org/",
+                            "description": "4chan search through comments"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "4plebs",
+                            "url": "https://4plebs.org/",
+                            "description": "Community run archive of 4chan.org"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "4ChanArchives",
+                            "url": "https://4chanarchives.com/",
+                            "description": "4chan archives and search"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "QResear.ch",
+                            "url": "https://qresear.ch/",
+                            "description": "8chan/8kun search."
                         }
                     ]
                 },
@@ -1534,139 +1529,139 @@
                     "SLSName": "Other / Multiple Social Media OSINT",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Export Comments",
+                            "url": "https://exportcomments.com/",
+                            "description": "Export Social Media Comments"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Pushshift.io",
+                            "url": "https://pushshift.io/",
+                            "description": "A collection of different social media tools"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Steam ID Finder",
+                            "url": "https://www.steamidfinder.com/",
+                            "description": "Steam ID Finder"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Steam Calculator",
+                            "url": "https://steamdb.info/calculator/",
+                            "description": "Calculate the value of a Steam Account"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "OnlySearch",
+                            "url": "https://onlysearch.co/",
+                            "description": "Discover Onlyfans Profiles"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Onlyfinder",
+                            "url": "https://onlyfinder.com/",
+                            "description": "Search millions of profiles"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Social Blade",
+                            "url": "https://socialblade.com/",
+                            "description": "Track user statistics for Youtube, Twitch, Instagram, and Twitter."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Aussiefinder",
+                            "url": "https://aussiefinder.com.au/#gsc.tab=0",
+                            "description": "Search social media to preference Aussie online profiles"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Search4Faces",
+                            "url": "https://search4faces.com/ch00/index.html",
+                            "description": "Search for faces by profile on Clubhouse.com"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Commits.top",
+                            "url": "https://commits.top/",
+                            "description": "List of most active GitHub users in different locations worldwide"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Github Compare",
+                            "url": "https://www.githubcompare.com/",
+                            "description": "Search and compare GitHub repos side by side"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Profile Search for GitHub",
+                            "url": "https://profile-summary-for-github.com/search",
+                            "description": "View a summary of any github user"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "SEART",
+                            "url": "https://seart-ghs.si.usi.ch/",
+                            "description": "GitHub Search"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Parler - Distributed Denial of Secrets",
+                            "url": "https://ddosecrets.com/wiki/Parler",
+                            "description": "Parler Database"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Graphtreon",
+                            "url": "https://graphtreon.com/",
+                            "description": "Patreon creators list"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Skypli",
+                            "url": "https://skypli.com/",
+                            "description": "Search skype users"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Skype Resolver",
+                            "url": "http://www.skypeipresolver.net/index.php",
+                            "description": "Skype IP Resolver."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Vedbex",
+                            "url": "https://www.vedbex.com/tools/email2skype",
+                            "description": "Email to Skype"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Chosic",
+                            "url": "https://www.chosic.com/spotify-playlist-analyzer/",
+                            "description": "Spotify Playlist Analyzer"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "ChartMasters",
+                            "url": "http://chartmasters.org/spotify-streaming-numbers-tool/",
+                            "description": "Spotify streaming numbers tool"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Tumblr Original Post Finder",
+                            "url": "https://jetblackcode.com/TumblrOriginalPostFinder",
+                            "description": "Original post finder for Tumblr"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "TumblrTool",
+                            "url": "https://labs.polsys.net/tools/tumblr/",
+                            "description": "Tool that retrieves posts tagged with a specific term from tumblr."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Photo-Map",
+                            "url": "http://photo-map.ru/",
+                            "description": "Photo map of VK posts"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "VK - City2me",
+                            "url": "http://vk.city4me.com/",
+                            "description": "Find hidden information and analytics of any VK account."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "VSCO",
+                            "url": "https://vsco.co/search/images/",
+                            "description": "VSCO image search."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "VSCO.PAGE",
+                            "url": "https://vsco.page/",
+                            "description": "VSCO Downloader and Viewer."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Imgur.com/search",
+                            "url": "https://imgur.com/search/",
+                            "description": "This is an imgur image title search made by imgur themselves, just in case you wanted to find an image by the theme of the title."
                         }
                     ]
                 }
@@ -1681,9 +1676,9 @@
                     "SLSName": "Fake Identities and Generators",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Phonerator",
+                            "url": "https://www.martinvigo.com/tools/phonerator/",
+                            "description": "Generates a list of existing Phone Numbers with defined parameters."
                         }
                     ]
                 },
@@ -1691,19 +1686,19 @@
                     "SLSName": "Email Tools",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "That’sThem",
+                            "url": "https://thatsthem.com/",
+                            "description": "This website has multiple tools that look up a variety of identifiers including emails, phone numbers, vin numbers, and more."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "EPIEOS",
+                            "url": "https://epieos.com/",
+                            "description": "As the website says, “Retrieve information linked to an email address…” Free for search on Google, Holehe, and Skype."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Verify-Email",
+                            "url": "https://verify-email.org/",
+                            "description": "Verify if an email exists or not by simply typing in an email in the search box and waiting for a result"
                         }
                     ]
                 },
@@ -1711,29 +1706,29 @@
                     "SLSName": "Phone Tools",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "That’sThem",
+                            "url": "https://thatsthem.com/",
+                            "description": "This website has multiple tools that look up a variety of identifiers including emails, phone numbers, vin numbers, and more."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "FreeCarrierLookup",
+                            "url": "https://freecarrierlookup.com/",
+                            "description": "Look up the carrier of any active phone number."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Phone Validator",
+                            "url": "https://www.phonevalidator.com/",
+                            "description": "Find out if a phone number belongs to a cell phone, a landline, or if it’s fake."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "USPhoneBook",
+                            "url": "https://www.usphonebook.com/",
+                            "description": "Finally, a reverse phone lookup that doesn’t charge you for every single search you make."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Phonerator",
+                            "url": "https://www.martinvigo.com/tools/phonerator/",
+                            "description": "Generates a list of existing Phone Numbers with defined parameters."
                         }
                     ]
                 },
@@ -1741,14 +1736,14 @@
                     "SLSName": "Name Tools",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "NAMINT",
+                            "url": "https://seintpl.github.io/NAMINT/",
+                            "description": "This tool was made by SIENT_pl. When you provide a name for this tool, it will give a list of possible online username naming patterns for potential matches."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "idCrawl",
+                            "url": "https://www.idcrawl.com/",
+                            "description": "Free People Search"
                         }
                     ]
                 },
@@ -1756,9 +1751,9 @@
                     "SLSName": "Computer Software",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "email2phonenumber",
+                            "url": "https://github.com/martinvigo/email2phonenumber",
+                            "description": "A tool that gives phone numbers associated with a given email. Credit: Matin Vigo"
                         }
                     ]
                 }
@@ -1773,69 +1768,69 @@
                     "SLSName": "default",
                     "SLSList": [
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Muckrock",
+                            "url": "https://www.muckrock.com/",
+                            "description": "File, track, and share public records requests"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Government Salaries",
+                            "url": "https://govsalaries.com/",
+                            "description": "Search through millions of government salaries records"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Judyrecords",
+                            "url": "https://www.judyrecords.com/",
+                            "description": "Search records of over 630 Million United States Court Cases"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Court Listener",
+                            "url": "https://www.courtlistener.com/",
+                            "description": "Court Case Search"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "PACER",
+                            "url": "https://pacer.uscourts.gov/",
+                            "description": "Public Access to Court Electronic Records."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Parallel Search",
+                            "url": "https://parallelsearch.casetext.com/",
+                            "description": "Search cases by text query"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "CanLII",
+                            "url": "https://www.canlii.org/en/",
+                            "description": "Search All Court Databases"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "New York State Prison Records",
+                            "url": "https://nysdoccslookup.doccs.ny.gov/",
+                            "description": "New York State Prison Records"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Texas Public Records",
+                            "url": "https://publicrecords.searchsystems.net/United_States_Free_Public_Records_by_State/Texas_Public_Records/",
+                            "description": "Texas Public Records"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Social Security Death Master File, free",
+                            "url": "https://ssdmf.info/",
+                            "description": "Browse the Death Master File"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Public Records - Ph055a",
+                            "url": "https://github.com/Ph055a/OSINT_Collection#public-records",
+                            "description": "Collection of various public records created by Ph055a."
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "See Through NY",
+                            "url": "https://www.seethroughny.net/payrolls",
+                            "description": "A database of salaries and other monetary transactions in New York"
                         },
                         {
-                            "name": "",
-                            "url": "",
-                            "description": ""
+                            "name": "Scotus Search",
+                            "url": "https://www.scotussearch.com/",
+                            "description": "Search the text of over 1 million individual statements within over 6 thousand oral arguments since the 1950s"
                         }
                     ]
                 }

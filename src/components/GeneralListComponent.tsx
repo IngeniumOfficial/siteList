@@ -144,7 +144,7 @@ function ListReturn(props: any){
                         <div class='description-link'>
                             <a href={listItem.url} target="_blank"><p class='description'>{listItem.description}</p></a>
                             <Show when={window.innerWidth >= 1000}>
-                                <a href={listItem.url} target="_blank"><p>{listItem.url}</p></a>
+                                <a href={listItem.url} target="_blank"><p class='contentLink'>{listItem.url}</p></a>
                             </Show>
                         </div>
                         <img id='button' onClick={() => copyToClipboard(listItem.url)} src={savelinksvg}></img>
