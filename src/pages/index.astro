@@ -1,6 +1,7 @@
 ---
 import RandomLink from "../components/index/RandomLink";
 import SiteListLayout from "../layouts/SiteListLayout.astro";
+import Featured from "../components/index/Featured";
 import "../styles/pages/index.scss";
 ---
 
@@ -14,6 +15,8 @@ import "../styles/pages/index.scss";
 		</h3>
 		<a href='/collection'><h3 id='collectionButton'>Collection</h3></a>
 		<h2>Featured</h2>
+		<Featured client:only='solid-js' />
 		<RandomLink client:only="solid-js" />
+		<script type="text/javascript"> var infolinks_pid = 3383821; var infolinks_wsid = 0; </script> <script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script>
 	</div>
 </SiteListLayout>

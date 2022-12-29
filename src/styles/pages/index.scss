@@ -29,14 +29,46 @@ $buttonPadding: 0.75em 1em 0.75em 1em;
         padding: $buttonPadding;
         border-radius: 0.75em;
     }
+
+    #featuredComponent{
+        background-color: $quaternarycolor;
+        color: $primarycolor;
+        padding: 1em;
+
+        display: flex;
+
+        #title-icon{
+            margin-right: 0.75em;
+            color: $primarycolor;
+            width: 25%;
+        }
+
+        #description-link{
+            margin: 0;
+            color: $primarycolor;
+            width: auto;
+        }
+
+        #saveIcon{
+            margin-left: 0.75em;
+            width: 25%;
+            cursor: pointer;
+        }
+    }
     
     #randomLink{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
         
-        
-        button{
+        .button{
             font-size: $generalfontsize;
+            background-color: $quaternarycolor;
+            color: $primarycolor;
+            padding: 0.5em 1.2em 0.5em 1.2em;
+            border-radius: 0.5em;
         }
-        button:hover{
+        .button:hover{
             cursor: pointer;
         }
     }
